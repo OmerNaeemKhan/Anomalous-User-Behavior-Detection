@@ -1,0 +1,1001 @@
+event_id,timestamp,username,ip_address,location,device,login_hour,success,is_anomaly
+522,2026-08-02 21:07:00,david,192.168.1.15,"New York, USA",Windows,21,1,0
+738,2026-08-08 01:03:00,alice,192.168.1.10,"New York, USA",MacOS,1,1,0
+741,2026-08-12 07:38:00,jack,192.168.1.10,"New York, USA",MacOS,7,1,0
+661,2026-08-13 06:05:00,emma,192.168.1.10,"New York, USA",MacOS,6,1,0
+412,2026-08-09 15:51:00,grace,192.168.1.10,"New York, USA",MacOS,15,1,0
+679,2026-08-12 12:42:00,grace,192.168.1.10,"New York, USA",Windows,12,1,0
+627,2026-08-03 10:58:00,emma,192.168.1.20,"Chicago, USA",MacOS,10,1,0
+514,2026-08-04 15:41:00,david,192.168.1.10,"New York, USA",MacOS,15,1,0
+860,2026-08-10 12:14:00,grace,192.168.1.15,"New York, USA",Windows,12,1,0
+137,2026-08-02 21:39:00,frank,192.168.1.30,"Boston, USA",Linux,21,1,0
+812,2026-08-12 10:17:00,bob,192.168.1.20,"Chicago, USA",Linux,10,0,0
+77,2026-08-09 11:24:00,alice,192.168.1.15,"New York, USA",Linux,11,1,0
+637,2026-08-10 16:50:00,charlie,192.168.1.30,"Boston, USA",Linux,16,1,0
+974,2026-08-10 08:11:00,charlie,45.33.32.156,Foreign Location,Linux,0,0,1
+939,2026-08-08 13:33:00,david,192.168.1.25,"Chicago, USA",MacOS,13,1,0
+900,2026-08-02 06:11:00,grace,192.168.1.25,"Chicago, USA",MacOS,6,1,0
+281,2026-08-14 05:58:00,frank,192.168.1.30,"Boston, USA",Windows,5,1,0
+884,2026-08-09 04:34:00,emma,192.168.1.15,"New York, USA",Linux,4,1,0
+762,2026-08-07 04:50:00,jack,192.168.1.20,"Chicago, USA",Linux,4,1,0
+320,2026-08-13 07:28:00,charlie,192.168.1.10,"New York, USA",Linux,7,1,0
+550,2026-08-04 08:21:00,bob,192.168.1.10,"New York, USA",Windows,8,1,0
+175,2026-08-11 07:50:00,emma,192.168.1.10,"New York, USA",MacOS,7,1,0
+372,2026-08-14 09:26:00,bob,192.168.1.15,"New York, USA",Linux,9,1,0
+528,2026-08-05 16:49:00,david,192.168.1.30,"Boston, USA",Linux,16,1,0
+211,2026-08-11 10:18:00,bob,192.168.1.15,"New York, USA",Linux,10,1,0
+236,2026-08-08 19:08:00,isabella,192.168.1.30,"Boston, USA",Windows,19,1,0
+102,2026-08-04 16:28:00,david,192.168.1.10,"New York, USA",Windows,16,1,0
+987,2026-08-09 07:10:00,david,185.220.101.1,Unknown,Windows,23,1,1
+903,2026-08-02 11:46:00,jack,192.168.1.30,"Boston, USA",Linux,11,1,0
+948,2026-08-06 04:11:00,jack,192.168.1.10,"New York, USA",Linux,4,1,0
+347,2026-08-09 08:41:00,jack,192.168.1.15,"New York, USA",Linux,8,1,0
+140,2026-08-13 13:54:00,emma,192.168.1.25,"Chicago, USA",MacOS,13,1,0
+622,2026-08-07 18:52:00,frank,192.168.1.20,"Chicago, USA",Linux,18,1,0
+500,2026-08-11 20:52:00,charlie,192.168.1.10,"New York, USA",Linux,20,1,0
+371,2026-08-11 13:43:00,charlie,192.168.1.20,"Chicago, USA",MacOS,13,1,0
+199,2026-08-04 17:09:00,henry,192.168.1.25,"Chicago, USA",Linux,17,1,0
+688,2026-08-11 14:48:00,david,192.168.1.20,"Chicago, USA",MacOS,14,1,0
+585,2026-08-05 12:44:00,grace,192.168.1.15,"New York, USA",Linux,12,1,0
+902,2026-08-04 20:32:00,henry,192.168.1.10,"New York, USA",Windows,20,1,0
+60,2026-08-02 05:42:00,jack,192.168.1.30,"Boston, USA",Windows,5,1,0
+329,2026-08-06 15:47:00,henry,192.168.1.30,"Boston, USA",Windows,15,1,0
+97,2026-08-01 08:13:00,isabella,192.168.1.20,"Chicago, USA",MacOS,8,1,0
+313,2026-08-09 14:44:00,charlie,192.168.1.20,"Chicago, USA",MacOS,14,1,0
+975,2026-08-09 08:05:00,isabella,45.33.32.156,Foreign Location,Linux,0,0,1
+300,2026-08-05 19:44:00,emma,192.168.1.15,"New York, USA",Linux,19,1,0
+278,2026-08-14 05:17:00,charlie,192.168.1.25,"Chicago, USA",Windows,5,1,0
+925,2026-08-07 22:17:00,bob,192.168.1.20,"Chicago, USA",Linux,22,1,0
+602,2026-08-02 00:51:00,jack,192.168.1.15,"New York, USA",MacOS,0,1,0
+440,2026-08-10 07:28:00,grace,192.168.1.20,"Chicago, USA",Windows,7,1,0
+838,2026-08-03 20:18:00,bob,192.168.1.30,"Boston, USA",Linux,20,1,0
+571,2026-08-13 16:54:00,grace,192.168.1.10,"New York, USA",MacOS,16,1,0
+880,2026-08-07 13:25:00,david,192.168.1.25,"Chicago, USA",MacOS,13,0,0
+262,2026-08-03 14:09:00,grace,192.168.1.10,"New York, USA",Linux,14,1,0
+579,2026-08-03 23:23:00,bob,192.168.1.15,"New York, USA",MacOS,23,1,0
+24,2026-08-10 02:08:00,bob,192.168.1.25,"Chicago, USA",Linux,2,0,0
+31,2026-08-01 18:38:00,henry,192.168.1.10,"New York, USA",MacOS,18,1,0
+618,2026-08-10 12:00:00,bob,192.168.1.30,"Boston, USA",Linux,12,1,0
+11,2026-08-06 12:27:00,alice,192.168.1.20,"Chicago, USA",Windows,12,1,0
+222,2026-08-07 13:54:00,grace,192.168.1.10,"New York, USA",Linux,13,1,0
+821,2026-08-08 02:51:00,alice,192.168.1.20,"Chicago, USA",MacOS,2,1,0
+297,2026-08-09 01:25:00,emma,192.168.1.15,"New York, USA",MacOS,1,1,0
+55,2026-08-14 12:18:00,alice,192.168.1.30,"Boston, USA",Windows,12,1,0
+543,2026-08-15 02:30:00,frank,192.168.1.30,"Boston, USA",Linux,2,1,0
+210,2026-08-06 12:14:00,emma,192.168.1.10,"New York, USA",MacOS,12,0,0
+605,2026-08-07 10:18:00,bob,192.168.1.30,"Boston, USA",MacOS,10,1,0
+693,2026-08-13 23:37:00,henry,192.168.1.30,"Boston, USA",Windows,23,1,0
+663,2026-08-12 16:51:00,alice,192.168.1.30,"Boston, USA",Windows,16,1,0
+867,2026-08-11 15:08:00,frank,192.168.1.10,"New York, USA",Windows,15,1,0
+71,2026-08-12 20:01:00,emma,192.168.1.25,"Chicago, USA",MacOS,20,1,0
+544,2026-08-02 00:10:00,frank,192.168.1.20,"Chicago, USA",MacOS,0,1,0
+108,2026-08-14 21:11:00,isabella,192.168.1.20,"Chicago, USA",MacOS,21,1,0
+494,2026-08-06 08:43:00,isabella,192.168.1.25,"Chicago, USA",MacOS,8,1,0
+591,2026-08-14 22:01:00,frank,192.168.1.25,"Chicago, USA",Linux,22,1,0
+742,2026-08-15 03:40:00,charlie,192.168.1.25,"Chicago, USA",Windows,3,1,0
+293,2026-08-10 12:52:00,jack,192.168.1.25,"Chicago, USA",MacOS,12,1,0
+290,2026-08-06 13:40:00,isabella,192.168.1.30,"Boston, USA",Linux,13,1,0
+653,2026-08-13 12:56:00,charlie,192.168.1.20,"Chicago, USA",MacOS,12,1,0
+40,2026-08-02 22:46:00,alice,192.168.1.10,"New York, USA",Windows,22,1,0
+590,2026-08-07 07:16:00,bob,192.168.1.25,"Chicago, USA",Linux,7,1,0
+308,2026-08-13 22:43:00,jack,192.168.1.10,"New York, USA",MacOS,22,1,0
+680,2026-08-02 07:58:00,bob,192.168.1.15,"New York, USA",Linux,7,1,0
+67,2026-08-08 05:12:00,isabella,192.168.1.30,"Boston, USA",Linux,5,1,0
+276,2026-08-01 23:48:00,emma,192.168.1.15,"New York, USA",MacOS,23,1,0
+68,2026-08-08 03:30:00,isabella,192.168.1.10,"New York, USA",Windows,3,1,0
+319,2026-08-14 01:14:00,emma,192.168.1.25,"Chicago, USA",Linux,1,1,0
+549,2026-08-08 08:21:00,alice,192.168.1.25,"Chicago, USA",MacOS,8,1,0
+999,2026-08-14 10:14:00,frank,91.108.4.20,Foreign Location,Windows,2,1,1
+715,2026-08-14 06:00:00,frank,192.168.1.30,"Boston, USA",Windows,6,1,0
+754,2026-08-09 03:45:00,bob,192.168.1.30,"Boston, USA",MacOS,3,0,0
+328,2026-08-11 10:35:00,david,192.168.1.30,"Boston, USA",MacOS,10,1,0
+383,2026-08-04 06:52:00,isabella,192.168.1.30,"Boston, USA",Windows,6,1,0
+452,2026-08-02 04:27:00,emma,192.168.1.10,"New York, USA",MacOS,4,1,0
+523,2026-08-09 19:49:00,henry,192.168.1.10,"New York, USA",Linux,19,1,0
+219,2026-08-11 17:29:00,emma,192.168.1.20,"Chicago, USA",Windows,17,0,0
+788,2026-08-01 12:51:00,alice,192.168.1.25,"Chicago, USA",Windows,12,1,0
+437,2026-08-07 21:50:00,emma,192.168.1.15,"New York, USA",Linux,21,1,0
+765,2026-08-14 16:53:00,alice,192.168.1.30,"Boston, USA",MacOS,16,1,0
+89,2026-08-15 03:04:00,grace,192.168.1.30,"Boston, USA",Windows,3,1,0
+64,2026-08-14 03:28:00,jack,192.168.1.10,"New York, USA",Windows,3,1,0
+827,2026-08-13 12:02:00,emma,192.168.1.30,"Boston, USA",Windows,12,1,0
+717,2026-08-03 09:17:00,alice,192.168.1.10,"New York, USA",Windows,9,1,0
+352,2026-08-14 13:47:00,bob,192.168.1.20,"Chicago, USA",Windows,13,1,0
+937,2026-08-12 10:04:00,jack,192.168.1.20,"Chicago, USA",MacOS,10,1,0
+257,2026-08-02 17:13:00,alice,192.168.1.25,"Chicago, USA",MacOS,17,1,0
+636,2026-08-11 08:21:00,charlie,192.168.1.20,"Chicago, USA",Linux,8,1,0
+645,2026-08-02 22:46:00,jack,192.168.1.30,"Boston, USA",Windows,22,0,0
+555,2026-08-05 04:34:00,grace,192.168.1.15,"New York, USA",MacOS,4,1,0
+960,2026-08-04 12:25:00,grace,45.33.32.156,Foreign Location,MacOS,4,1,1
+169,2026-08-01 09:27:00,charlie,192.168.1.25,"Chicago, USA",MacOS,9,1,0
+918,2026-08-02 23:23:00,grace,192.168.1.15,"New York, USA",Windows,23,1,0
+529,2026-08-07 09:59:00,frank,192.168.1.25,"Chicago, USA",Windows,9,1,0
+824,2026-08-10 12:18:00,charlie,192.168.1.10,"New York, USA",Windows,12,1,0
+986,2026-08-07 07:25:00,jack,91.108.4.20,Foreign Location,Windows,23,0,1
+817,2026-08-05 20:54:00,isabella,192.168.1.20,"Chicago, USA",Windows,20,1,0
+87,2026-08-05 09:31:00,emma,192.168.1.30,"Boston, USA",MacOS,9,1,0
+433,2026-08-08 11:21:00,grace,192.168.1.15,"New York, USA",MacOS,11,1,0
+185,2026-08-08 11:46:00,bob,192.168.1.20,"Chicago, USA",MacOS,11,1,0
+979,2026-08-03 10:30:00,grace,185.220.101.1,Unknown,Windows,2,0,1
+535,2026-08-13 08:26:00,bob,192.168.1.10,"New York, USA",Windows,8,1,0
+295,2026-08-03 08:07:00,frank,192.168.1.25,"Chicago, USA",Windows,8,1,0
+893,2026-08-06 17:45:00,grace,192.168.1.30,"Boston, USA",Linux,17,1,0
+426,2026-08-14 11:27:00,jack,192.168.1.15,"New York, USA",Linux,11,1,0
+714,2026-08-09 11:56:00,frank,192.168.1.30,"Boston, USA",Windows,11,1,0
+261,2026-08-13 09:45:00,jack,192.168.1.20,"Chicago, USA",MacOS,9,1,0
+238,2026-08-08 06:13:00,alice,192.168.1.25,"Chicago, USA",Windows,6,1,0
+560,2026-08-09 23:28:00,frank,192.168.1.20,"Chicago, USA",MacOS,23,1,0
+584,2026-08-14 01:45:00,frank,192.168.1.25,"Chicago, USA",MacOS,1,1,0
+446,2026-08-12 01:59:00,frank,192.168.1.10,"New York, USA",Linux,1,1,0
+868,2026-08-01 09:11:00,david,192.168.1.20,"Chicago, USA",MacOS,9,1,0
+801,2026-08-12 03:48:00,isabella,192.168.1.20,"Chicago, USA",Linux,3,1,0
+600,2026-08-14 02:41:00,grace,192.168.1.30,"Boston, USA",Linux,2,1,0
+850,2026-08-15 05:52:00,frank,192.168.1.10,"New York, USA",Linux,5,1,0
+266,2026-08-04 19:21:00,frank,192.168.1.25,"Chicago, USA",Windows,19,1,0
+996,2026-08-02 10:49:00,charlie,45.33.32.156,Foreign Location,MacOS,2,1,1
+530,2026-08-11 18:40:00,grace,192.168.1.30,"Boston, USA",Windows,18,0,0
+56,2026-08-02 11:23:00,alice,192.168.1.30,"Boston, USA",MacOS,11,1,0
+121,2026-08-05 02:08:00,grace,192.168.1.25,"Chicago, USA",Windows,2,0,0
+216,2026-08-07 02:42:00,henry,192.168.1.25,"Chicago, USA",MacOS,2,1,0
+26,2026-08-13 13:15:00,bob,192.168.1.20,"Chicago, USA",Linux,13,1,0
+73,2026-08-04 07:26:00,frank,192.168.1.20,"Chicago, USA",Windows,7,1,0
+45,2026-08-10 23:19:00,frank,192.168.1.25,"Chicago, USA",MacOS,23,1,0
+248,2026-08-06 01:08:00,isabella,192.168.1.30,"Boston, USA",Windows,1,1,0
+722,2026-08-10 08:02:00,frank,192.168.1.30,"Boston, USA",Windows,8,1,0
+282,2026-08-04 21:58:00,charlie,192.168.1.30,"Boston, USA",Windows,21,1,0
+894,2026-08-10 00:23:00,alice,192.168.1.25,"Chicago, USA",MacOS,0,1,0
+915,2026-08-08 14:56:00,david,192.168.1.30,"Boston, USA",Windows,14,1,0
+811,2026-08-04 14:13:00,henry,192.168.1.20,"Chicago, USA",Linux,14,1,0
+245,2026-08-11 16:20:00,bob,192.168.1.10,"New York, USA",Linux,16,1,0
+823,2026-08-09 03:10:00,charlie,192.168.1.25,"Chicago, USA",MacOS,3,1,0
+322,2026-08-09 02:37:00,david,192.168.1.25,"Chicago, USA",Windows,2,1,0
+644,2026-08-12 14:16:00,david,192.168.1.25,"Chicago, USA",Windows,14,1,0
+159,2026-08-03 16:01:00,henry,192.168.1.10,"New York, USA",Linux,16,1,0
+978,2026-08-13 11:50:00,david,45.33.32.156,Foreign Location,MacOS,3,0,1
+430,2026-08-10 17:31:00,charlie,192.168.1.15,"New York, USA",MacOS,17,1,0
+942,2026-08-11 06:10:00,david,192.168.1.20,"Chicago, USA",MacOS,6,1,0
+463,2026-08-11 22:10:00,bob,192.168.1.20,"Chicago, USA",Windows,22,1,0
+310,2026-08-02 17:47:00,charlie,192.168.1.25,"Chicago, USA",Windows,17,1,0
+698,2026-08-04 06:20:00,henry,192.168.1.10,"New York, USA",MacOS,6,1,0
+61,2026-08-14 04:41:00,jack,192.168.1.30,"Boston, USA",MacOS,4,1,0
+885,2026-08-12 19:11:00,charlie,192.168.1.30,"Boston, USA",Linux,19,1,0
+596,2026-08-14 09:55:00,charlie,192.168.1.25,"Chicago, USA",MacOS,9,1,0
+768,2026-08-09 03:47:00,isabella,192.168.1.25,"Chicago, USA",MacOS,3,1,0
+650,2026-08-10 18:52:00,isabella,192.168.1.25,"Chicago, USA",Linux,18,1,0
+651,2026-08-13 13:37:00,isabella,192.168.1.30,"Boston, USA",Windows,13,1,0
+866,2026-08-08 21:18:00,henry,192.168.1.30,"Boston, USA",Linux,21,1,0
+669,2026-08-07 12:08:00,frank,192.168.1.10,"New York, USA",Linux,12,1,0
+299,2026-08-09 07:44:00,frank,192.168.1.15,"New York, USA",Windows,7,1,0
+690,2026-08-02 06:01:00,jack,192.168.1.15,"New York, USA",MacOS,6,1,0
+315,2026-08-08 20:03:00,bob,192.168.1.10,"New York, USA",Linux,20,1,0
+311,2026-08-03 06:03:00,frank,192.168.1.30,"Boston, USA",Linux,6,1,0
+362,2026-08-10 23:50:00,bob,192.168.1.10,"New York, USA",MacOS,23,1,0
+480,2026-08-10 21:34:00,charlie,192.168.1.20,"Chicago, USA",MacOS,21,1,0
+111,2026-08-13 04:41:00,emma,192.168.1.25,"Chicago, USA",Linux,4,1,0
+990,2026-08-07 08:04:00,jack,45.33.32.156,Foreign Location,Windows,0,0,1
+487,2026-08-02 01:35:00,bob,192.168.1.25,"Chicago, USA",Linux,1,1,0
+364,2026-08-08 01:27:00,frank,192.168.1.20,"Chicago, USA",MacOS,1,1,0
+255,2026-08-11 14:51:00,bob,192.168.1.30,"Boston, USA",Windows,14,1,0
+260,2026-08-14 15:41:00,jack,192.168.1.30,"Boston, USA",Linux,15,1,0
+803,2026-08-07 05:15:00,charlie,192.168.1.30,"Boston, USA",Windows,5,1,0
+678,2026-08-03 16:46:00,emma,192.168.1.15,"New York, USA",Linux,16,0,0
+495,2026-08-14 19:07:00,isabella,192.168.1.15,"New York, USA",Linux,19,1,0
+671,2026-08-10 10:57:00,alice,192.168.1.10,"New York, USA",MacOS,10,1,0
+378,2026-08-08 14:32:00,bob,192.168.1.20,"Chicago, USA",Linux,14,1,0
+527,2026-08-05 09:54:00,grace,192.168.1.10,"New York, USA",Windows,9,1,0
+846,2026-08-11 17:19:00,grace,192.168.1.20,"Chicago, USA",MacOS,17,1,0
+138,2026-08-12 11:42:00,grace,192.168.1.10,"New York, USA",MacOS,11,1,0
+356,2026-08-02 06:53:00,david,192.168.1.20,"Chicago, USA",MacOS,6,1,0
+366,2026-08-15 07:47:00,frank,192.168.1.25,"Chicago, USA",MacOS,7,1,0
+943,2026-08-12 06:07:00,frank,192.168.1.25,"Chicago, USA",MacOS,6,1,0
+750,2026-08-03 09:46:00,emma,192.168.1.30,"Boston, USA",MacOS,9,1,0
+949,2026-08-12 01:49:00,isabella,192.168.1.15,"New York, USA",MacOS,1,1,0
+830,2026-08-04 19:37:00,henry,192.168.1.15,"New York, USA",Linux,19,1,0
+657,2026-08-04 01:13:00,charlie,192.168.1.10,"New York, USA",Linux,1,1,0
+200,2026-08-13 21:25:00,frank,192.168.1.30,"Boston, USA",MacOS,21,1,0
+214,2026-08-05 10:20:00,jack,192.168.1.15,"New York, USA",Windows,10,1,0
+409,2026-08-02 10:34:00,frank,192.168.1.10,"New York, USA",MacOS,10,1,0
+333,2026-08-02 12:29:00,emma,192.168.1.25,"Chicago, USA",MacOS,12,1,0
+209,2026-08-13 15:28:00,henry,192.168.1.10,"New York, USA",Linux,15,1,0
+614,2026-08-03 12:00:00,isabella,192.168.1.15,"New York, USA",MacOS,12,1,0
+79,2026-08-06 17:17:00,charlie,192.168.1.15,"New York, USA",Windows,17,1,0
+30,2026-08-13 14:34:00,charlie,192.168.1.30,"Boston, USA",Windows,14,1,0
+536,2026-08-12 03:41:00,jack,192.168.1.20,"Chicago, USA",Windows,3,1,0
+696,2026-08-14 14:01:00,bob,192.168.1.30,"Boston, USA",MacOS,14,1,0
+558,2026-08-12 14:46:00,david,192.168.1.30,"Boston, USA",Linux,14,1,0
+837,2026-08-12 06:30:00,david,192.168.1.20,"Chicago, USA",Windows,6,1,0
+597,2026-08-05 06:36:00,isabella,192.168.1.30,"Boston, USA",Windows,6,1,0
+166,2026-08-11 02:11:00,jack,192.168.1.20,"Chicago, USA",Linux,2,1,0
+919,2026-08-02 04:41:00,frank,192.168.1.10,"New York, USA",Windows,4,1,0
+496,2026-08-12 14:40:00,isabella,192.168.1.10,"New York, USA",MacOS,14,1,0
+825,2026-08-06 03:20:00,charlie,192.168.1.10,"New York, USA",Linux,3,1,0
+66,2026-08-09 17:48:00,david,192.168.1.20,"Chicago, USA",Windows,17,1,0
+142,2026-08-07 16:19:00,bob,192.168.1.25,"Chicago, USA",Windows,16,1,0
+926,2026-08-10 00:18:00,henry,192.168.1.25,"Chicago, USA",Linux,0,1,0
+828,2026-08-03 19:02:00,alice,192.168.1.10,"New York, USA",Windows,19,1,0
+656,2026-08-11 15:36:00,bob,192.168.1.30,"Boston, USA",Linux,15,1,0
+332,2026-08-05 00:30:00,grace,192.168.1.15,"New York, USA",Linux,0,1,0
+665,2026-08-12 21:53:00,david,192.168.1.10,"New York, USA",Windows,21,1,0
+250,2026-08-04 06:59:00,charlie,192.168.1.30,"Boston, USA",MacOS,6,1,0
+908,2026-08-09 13:02:00,frank,192.168.1.20,"Chicago, USA",Windows,13,1,0
+709,2026-08-02 00:00:00,david,192.168.1.20,"Chicago, USA",Windows,0,1,0
+306,2026-08-02 15:04:00,alice,192.168.1.20,"Chicago, USA",MacOS,15,1,0
+735,2026-08-10 18:06:00,charlie,192.168.1.25,"Chicago, USA",MacOS,18,1,0
+976,2026-08-09 08:57:00,jack,91.108.4.20,Foreign Location,Linux,0,1,1
+50,2026-08-01 16:03:00,isabella,192.168.1.10,"New York, USA",Windows,16,1,0
+897,2026-08-14 17:20:00,frank,192.168.1.30,"Boston, USA",Linux,17,1,0
+3,2026-08-03 11:10:00,alice,192.168.1.15,"New York, USA",Windows,11,1,0
+545,2026-08-13 22:01:00,frank,192.168.1.25,"Chicago, USA",MacOS,22,1,0
+351,2026-08-09 11:01:00,alice,192.168.1.10,"New York, USA",MacOS,11,1,0
+905,2026-08-13 06:56:00,frank,192.168.1.15,"New York, USA",Windows,6,1,0
+537,2026-08-13 16:34:00,emma,192.168.1.30,"Boston, USA",Linux,16,1,0
+345,2026-08-14 21:53:00,henry,192.168.1.30,"Boston, USA",Windows,21,1,0
+995,2026-08-04 07:02:00,jack,45.33.32.156,Foreign Location,Windows,23,0,1
+482,2026-08-04 08:37:00,isabella,192.168.1.20,"Chicago, USA",Windows,8,1,0
+576,2026-08-14 10:09:00,jack,192.168.1.15,"New York, USA",MacOS,10,1,0
+34,2026-08-04 04:40:00,isabella,192.168.1.15,"New York, USA",Linux,4,1,0
+32,2026-08-06 18:46:00,emma,192.168.1.10,"New York, USA",Windows,18,1,0
+232,2026-08-10 09:02:00,david,192.168.1.30,"Boston, USA",MacOS,9,1,0
+964,2026-08-13 10:46:00,grace,185.220.101.1,Unknown,MacOS,2,1,1
+193,2026-08-04 20:05:00,bob,192.168.1.25,"Chicago, USA",Linux,20,1,0
+334,2026-08-13 01:45:00,bob,192.168.1.10,"New York, USA",MacOS,1,1,0
+4,2026-08-14 02:30:00,alice,192.168.1.15,"New York, USA",Linux,2,1,0
+205,2026-08-03 14:27:00,henry,192.168.1.30,"Boston, USA",MacOS,14,1,0
+515,2026-08-14 12:17:00,jack,192.168.1.25,"Chicago, USA",MacOS,12,1,0
+800,2026-08-05 15:43:00,jack,192.168.1.20,"Chicago, USA",Linux,15,1,0
+307,2026-08-15 07:52:00,bob,192.168.1.30,"Boston, USA",Linux,7,1,0
+110,2026-08-11 13:47:00,henry,192.168.1.20,"Chicago, USA",Windows,13,1,0
+431,2026-08-12 01:33:00,jack,192.168.1.10,"New York, USA",Linux,1,1,0
+78,2026-08-09 09:09:00,bob,192.168.1.30,"Boston, USA",MacOS,9,0,0
+85,2026-08-09 07:46:00,emma,192.168.1.30,"Boston, USA",MacOS,7,1,0
+287,2026-08-02 13:55:00,jack,192.168.1.10,"New York, USA",Windows,13,1,0
+83,2026-08-09 06:57:00,henry,192.168.1.20,"Chicago, USA",Windows,6,1,0
+992,2026-08-01 09:40:00,jack,45.33.32.156,Foreign Location,MacOS,1,0,1
+790,2026-08-07 14:23:00,emma,192.168.1.25,"Chicago, USA",MacOS,14,1,0
+895,2026-08-13 21:32:00,frank,192.168.1.10,"New York, USA",Windows,21,1,0
+399,2026-08-02 23:51:00,henry,192.168.1.10,"New York, USA",Windows,23,1,0
+324,2026-08-12 21:15:00,bob,192.168.1.30,"Boston, USA",Linux,21,1,0
+520,2026-08-13 16:04:00,charlie,192.168.1.10,"New York, USA",Linux,16,1,0
+917,2026-08-06 04:25:00,david,192.168.1.25,"Chicago, USA",Windows,4,1,0
+923,2026-08-01 11:13:00,isabella,192.168.1.30,"Boston, USA",Windows,11,1,0
+6,2026-08-04 23:11:00,alice,192.168.1.25,"Chicago, USA",MacOS,23,1,0
+732,2026-08-11 11:55:00,frank,192.168.1.10,"New York, USA",MacOS,11,1,0
+466,2026-08-12 05:09:00,charlie,192.168.1.15,"New York, USA",MacOS,5,1,0
+98,2026-08-15 03:19:00,jack,192.168.1.20,"Chicago, USA",MacOS,3,1,0
+267,2026-08-03 10:54:00,bob,192.168.1.25,"Chicago, USA",Windows,10,1,0
+358,2026-08-07 20:15:00,david,192.168.1.20,"Chicago, USA",Windows,20,1,0
+869,2026-08-13 19:06:00,emma,192.168.1.30,"Boston, USA",MacOS,19,1,0
+799,2026-08-10 12:57:00,grace,192.168.1.25,"Chicago, USA",Linux,12,1,0
+381,2026-08-04 11:50:00,david,192.168.1.15,"New York, USA",MacOS,11,1,0
+632,2026-08-10 22:38:00,bob,192.168.1.15,"New York, USA",MacOS,22,1,0
+382,2026-08-14 08:32:00,isabella,192.168.1.20,"Chicago, USA",MacOS,8,1,0
+491,2026-08-06 06:39:00,isabella,192.168.1.10,"New York, USA",Windows,6,1,0
+119,2026-08-15 01:27:00,isabella,192.168.1.15,"New York, USA",MacOS,1,1,0
+901,2026-08-04 23:53:00,charlie,192.168.1.30,"Boston, USA",MacOS,23,1,0
+251,2026-08-01 22:04:00,bob,192.168.1.15,"New York, USA",Windows,22,1,0
+524,2026-08-12 07:53:00,jack,192.168.1.25,"Chicago, USA",Windows,7,1,0
+10,2026-08-09 13:30:00,emma,192.168.1.30,"Boston, USA",Windows,13,1,0
+197,2026-08-09 01:37:00,grace,192.168.1.30,"Boston, USA",MacOS,1,1,0
+604,2026-08-12 14:30:00,jack,192.168.1.30,"Boston, USA",Linux,14,1,0
+82,2026-08-12 01:03:00,alice,192.168.1.15,"New York, USA",Windows,1,1,0
+784,2026-08-12 03:11:00,charlie,192.168.1.30,"Boston, USA",Linux,3,1,0
+588,2026-08-02 18:10:00,emma,192.168.1.30,"Boston, USA",Windows,18,1,0
+798,2026-08-01 21:54:00,charlie,192.168.1.25,"Chicago, USA",MacOS,21,1,0
+240,2026-08-10 20:53:00,isabella,192.168.1.30,"Boston, USA",Linux,20,1,0
+291,2026-08-02 23:21:00,frank,192.168.1.25,"Chicago, USA",Linux,23,1,0
+212,2026-08-02 09:07:00,alice,192.168.1.20,"Chicago, USA",Windows,9,1,0
+718,2026-08-13 07:30:00,alice,192.168.1.25,"Chicago, USA",Windows,7,1,0
+360,2026-08-11 08:09:00,grace,192.168.1.25,"Chicago, USA",MacOS,8,0,0
+450,2026-08-05 07:36:00,alice,192.168.1.25,"Chicago, USA",Windows,7,1,0
+228,2026-08-05 21:39:00,charlie,192.168.1.15,"New York, USA",Linux,21,1,0
+951,2026-08-07 10:32:00,bob,185.220.101.1,Unknown,Linux,2,0,1
+947,2026-08-12 20:59:00,alice,192.168.1.10,"New York, USA",Linux,20,1,0
+797,2026-08-14 23:41:00,alice,192.168.1.25,"Chicago, USA",Linux,23,1,0
+502,2026-08-05 23:02:00,emma,192.168.1.20,"Chicago, USA",Linux,23,1,0
+465,2026-08-09 16:43:00,emma,192.168.1.30,"Boston, USA",Windows,16,1,0
+363,2026-08-13 17:54:00,charlie,192.168.1.20,"Chicago, USA",MacOS,17,1,0
+469,2026-08-03 04:42:00,jack,192.168.1.30,"Boston, USA",MacOS,4,1,0
+936,2026-08-07 22:44:00,bob,192.168.1.10,"New York, USA",MacOS,22,1,0
+429,2026-08-05 16:11:00,bob,192.168.1.10,"New York, USA",MacOS,16,1,0
+8,2026-08-09 03:50:00,frank,192.168.1.30,"Boston, USA",MacOS,3,1,0
+156,2026-08-08 01:47:00,david,192.168.1.15,"New York, USA",MacOS,1,1,0
+542,2026-08-03 13:20:00,alice,192.168.1.25,"Chicago, USA",Windows,13,1,0
+441,2026-08-03 03:09:00,emma,192.168.1.20,"Chicago, USA",MacOS,3,1,0
+483,2026-08-10 06:39:00,isabella,192.168.1.30,"Boston, USA",Windows,6,1,0
+423,2026-08-01 17:05:00,henry,192.168.1.20,"Chicago, USA",MacOS,17,1,0
+779,2026-08-04 10:04:00,grace,192.168.1.30,"Boston, USA",Linux,10,1,0
+950,2026-08-07 22:55:00,jack,192.168.1.15,"New York, USA",MacOS,22,1,0
+335,2026-08-07 12:58:00,charlie,192.168.1.25,"Chicago, USA",Linux,12,1,0
+577,2026-08-14 17:26:00,henry,192.168.1.30,"Boston, USA",Windows,17,1,0
+935,2026-08-02 13:42:00,jack,192.168.1.30,"Boston, USA",MacOS,13,1,0
+568,2026-08-06 20:10:00,emma,192.168.1.20,"Chicago, USA",Linux,20,1,0
+595,2026-08-04 13:12:00,frank,192.168.1.30,"Boston, USA",MacOS,13,1,0
+531,2026-08-08 03:49:00,david,192.168.1.10,"New York, USA",Linux,3,0,0
+582,2026-08-03 22:51:00,alice,192.168.1.10,"New York, USA",MacOS,22,1,0
+708,2026-08-07 11:41:00,grace,192.168.1.15,"New York, USA",Windows,11,1,0
+449,2026-08-03 08:51:00,alice,192.168.1.30,"Boston, USA",Windows,8,1,0
+454,2026-08-13 06:20:00,isabella,192.168.1.25,"Chicago, USA",Windows,6,1,0
+229,2026-08-13 09:54:00,frank,192.168.1.30,"Boston, USA",MacOS,9,1,0
+353,2026-08-09 00:53:00,isabella,192.168.1.15,"New York, USA",Linux,0,1,0
+729,2026-08-06 08:38:00,jack,192.168.1.30,"Boston, USA",Windows,8,1,0
+213,2026-08-11 03:12:00,frank,192.168.1.15,"New York, USA",Windows,3,1,0
+80,2026-08-05 09:57:00,alice,192.168.1.20,"Chicago, USA",MacOS,9,1,0
+149,2026-08-08 00:41:00,bob,192.168.1.15,"New York, USA",MacOS,0,1,0
+303,2026-08-08 16:30:00,jack,192.168.1.20,"Chicago, USA",Windows,16,1,0
+629,2026-08-11 02:25:00,david,192.168.1.10,"New York, USA",Linux,2,1,0
+778,2026-08-04 22:49:00,isabella,192.168.1.10,"New York, USA",MacOS,22,1,0
+507,2026-08-08 05:34:00,frank,192.168.1.10,"New York, USA",Windows,5,1,0
+343,2026-08-06 17:46:00,emma,192.168.1.20,"Chicago, USA",Windows,17,1,0
+486,2026-08-11 19:33:00,david,192.168.1.20,"Chicago, USA",Windows,19,1,0
+712,2026-08-02 14:32:00,isabella,192.168.1.15,"New York, USA",Linux,14,1,0
+134,2026-08-03 01:30:00,david,192.168.1.30,"Boston, USA",Linux,1,1,0
+704,2026-08-02 17:18:00,henry,192.168.1.10,"New York, USA",MacOS,17,1,0
+312,2026-08-11 07:04:00,david,192.168.1.25,"Chicago, USA",Linux,7,1,0
+723,2026-08-04 10:31:00,frank,192.168.1.15,"New York, USA",Linux,10,1,0
+630,2026-08-12 04:24:00,david,192.168.1.10,"New York, USA",Windows,4,1,0
+1,2026-08-01 21:39:00,bob,192.168.1.20,"Chicago, USA",Windows,21,1,0
+317,2026-08-04 13:14:00,jack,192.168.1.20,"Chicago, USA",MacOS,13,1,0
+707,2026-08-12 08:41:00,isabella,192.168.1.20,"Chicago, USA",Linux,8,1,0
+548,2026-08-10 04:47:00,charlie,192.168.1.20,"Chicago, USA",MacOS,4,1,0
+873,2026-08-09 00:33:00,david,192.168.1.10,"New York, USA",MacOS,0,1,0
+533,2026-08-02 14:38:00,henry,192.168.1.10,"New York, USA",Linux,14,1,0
+478,2026-08-13 15:32:00,bob,192.168.1.10,"New York, USA",Windows,15,0,0
+405,2026-08-06 23:35:00,grace,192.168.1.15,"New York, USA",MacOS,23,1,0
+173,2026-08-04 17:22:00,david,192.168.1.20,"Chicago, USA",Windows,17,1,0
+126,2026-08-07 01:46:00,grace,192.168.1.10,"New York, USA",MacOS,1,1,0
+395,2026-08-03 04:21:00,alice,192.168.1.10,"New York, USA",Linux,4,1,0
+421,2026-08-08 03:25:00,grace,192.168.1.30,"Boston, USA",MacOS,3,1,0
+553,2026-08-10 02:23:00,frank,192.168.1.10,"New York, USA",MacOS,2,1,0
+904,2026-08-13 20:27:00,jack,192.168.1.20,"Chicago, USA",Windows,20,1,0
+91,2026-08-13 03:56:00,alice,192.168.1.30,"Boston, USA",Linux,3,1,0
+940,2026-08-14 15:02:00,emma,192.168.1.15,"New York, USA",Linux,15,1,0
+182,2026-08-03 09:49:00,henry,192.168.1.25,"Chicago, USA",MacOS,9,1,0
+275,2026-08-01 22:20:00,isabella,192.168.1.30,"Boston, USA",Linux,22,1,0
+896,2026-08-11 09:58:00,david,192.168.1.15,"New York, USA",Linux,9,1,0
+70,2026-08-09 03:15:00,david,192.168.1.15,"New York, USA",Linux,3,1,0
+292,2026-08-11 19:05:00,alice,192.168.1.10,"New York, USA",MacOS,19,1,0
+132,2026-08-05 01:26:00,bob,192.168.1.20,"Chicago, USA",Windows,1,1,0
+301,2026-08-05 08:44:00,bob,192.168.1.25,"Chicago, USA",MacOS,8,1,0
+425,2026-08-14 21:59:00,alice,192.168.1.25,"Chicago, USA",MacOS,21,1,0
+327,2026-08-11 07:01:00,charlie,192.168.1.10,"New York, USA",MacOS,7,1,0
+145,2026-08-09 01:52:00,emma,192.168.1.20,"Chicago, USA",Linux,1,1,0
+424,2026-08-14 14:46:00,grace,192.168.1.20,"Chicago, USA",Linux,14,1,0
+581,2026-08-11 07:17:00,bob,192.168.1.25,"Chicago, USA",MacOS,7,1,0
+136,2026-08-14 05:04:00,bob,192.168.1.10,"New York, USA",MacOS,5,1,0
+451,2026-08-10 08:48:00,alice,192.168.1.25,"Chicago, USA",Windows,8,1,0
+165,2026-08-09 23:44:00,isabella,192.168.1.25,"Chicago, USA",MacOS,23,1,0
+29,2026-08-12 21:15:00,emma,192.168.1.30,"Boston, USA",Windows,21,1,0
+774,2026-08-06 12:29:00,bob,192.168.1.15,"New York, USA",MacOS,12,0,0
+194,2026-08-10 18:54:00,emma,192.168.1.25,"Chicago, USA",MacOS,18,1,0
+389,2026-08-08 16:12:00,charlie,192.168.1.15,"New York, USA",MacOS,16,1,0
+853,2026-08-13 06:37:00,alice,192.168.1.30,"Boston, USA",Linux,6,1,0
+170,2026-08-07 23:03:00,henry,192.168.1.10,"New York, USA",Windows,23,1,0
+706,2026-08-01 18:39:00,isabella,192.168.1.25,"Chicago, USA",Linux,18,1,0
+141,2026-08-07 10:34:00,jack,192.168.1.20,"Chicago, USA",Windows,10,1,0
+174,2026-08-08 07:59:00,charlie,192.168.1.30,"Boston, USA",Linux,7,1,0
+7,2026-08-08 23:49:00,david,192.168.1.10,"New York, USA",Windows,23,1,0
+746,2026-08-02 13:46:00,charlie,192.168.1.20,"Chicago, USA",Windows,13,1,0
+479,2026-08-02 01:19:00,henry,192.168.1.20,"Chicago, USA",MacOS,1,1,0
+74,2026-08-11 01:34:00,isabella,192.168.1.30,"Boston, USA",Windows,1,1,0
+911,2026-08-06 21:09:00,jack,192.168.1.10,"New York, USA",Linux,21,1,0
+814,2026-08-14 10:43:00,charlie,192.168.1.15,"New York, USA",MacOS,10,1,0
+239,2026-08-04 10:05:00,isabella,192.168.1.25,"Chicago, USA",MacOS,10,1,0
+146,2026-08-13 23:32:00,emma,192.168.1.10,"New York, USA",Linux,23,1,0
+793,2026-08-14 02:37:00,frank,192.168.1.30,"Boston, USA",Linux,2,1,0
+235,2026-08-03 19:10:00,frank,192.168.1.15,"New York, USA",MacOS,19,1,0
+221,2026-08-08 01:35:00,jack,192.168.1.20,"Chicago, USA",Windows,1,0,0
+924,2026-08-02 08:51:00,jack,192.168.1.10,"New York, USA",MacOS,8,1,0
+501,2026-08-14 00:21:00,grace,192.168.1.30,"Boston, USA",Windows,0,1,0
+133,2026-08-14 10:27:00,emma,192.168.1.25,"Chicago, USA",MacOS,10,1,0
+991,2026-08-10 08:46:00,bob,45.33.32.156,Foreign Location,MacOS,0,0,1
+775,2026-08-08 15:14:00,henry,192.168.1.20,"Chicago, USA",Linux,15,1,0
+186,2026-08-13 01:02:00,grace,192.168.1.10,"New York, USA",Linux,1,1,0
+42,2026-08-06 05:00:00,henry,192.168.1.30,"Boston, USA",Windows,5,1,0
+697,2026-08-01 19:54:00,bob,192.168.1.10,"New York, USA",Windows,19,1,0
+109,2026-08-11 01:03:00,isabella,192.168.1.30,"Boston, USA",MacOS,1,1,0
+589,2026-08-05 14:06:00,isabella,192.168.1.20,"Chicago, USA",MacOS,14,1,0
+57,2026-08-04 21:58:00,isabella,192.168.1.10,"New York, USA",Linux,21,1,0
+406,2026-08-05 15:40:00,frank,192.168.1.15,"New York, USA",MacOS,15,0,0
+443,2026-08-07 12:20:00,isabella,192.168.1.15,"New York, USA",Windows,12,1,0
+758,2026-08-02 02:57:00,grace,192.168.1.30,"Boston, USA",Linux,2,1,0
+998,2026-08-09 10:46:00,bob,91.108.4.20,Foreign Location,Linux,2,0,1
+25,2026-08-07 01:18:00,isabella,192.168.1.30,"Boston, USA",Windows,1,1,0
+468,2026-08-13 13:33:00,henry,192.168.1.15,"New York, USA",Windows,13,1,0
+540,2026-08-10 04:31:00,jack,192.168.1.30,"Boston, USA",MacOS,4,1,0
+532,2026-08-03 11:03:00,alice,192.168.1.25,"Chicago, USA",MacOS,11,1,0
+619,2026-08-11 16:19:00,frank,192.168.1.25,"Chicago, USA",MacOS,16,1,0
+695,2026-08-04 07:23:00,david,192.168.1.15,"New York, USA",MacOS,7,1,0
+927,2026-08-13 11:20:00,charlie,192.168.1.15,"New York, USA",Windows,11,1,0
+339,2026-08-03 14:06:00,frank,192.168.1.20,"Chicago, USA",Windows,14,1,0
+52,2026-08-09 22:58:00,charlie,192.168.1.10,"New York, USA",MacOS,22,1,0
+508,2026-08-12 05:33:00,bob,192.168.1.15,"New York, USA",Linux,5,1,0
+517,2026-08-13 20:43:00,henry,192.168.1.20,"Chicago, USA",MacOS,20,1,0
+921,2026-08-10 14:37:00,emma,192.168.1.25,"Chicago, USA",MacOS,14,1,0
+782,2026-08-12 19:51:00,henry,192.168.1.25,"Chicago, USA",Linux,19,1,0
+265,2026-08-08 10:41:00,bob,192.168.1.25,"Chicago, USA",MacOS,10,1,0
+818,2026-08-05 16:04:00,isabella,192.168.1.10,"New York, USA",Linux,16,1,0
+711,2026-08-03 14:41:00,charlie,192.168.1.15,"New York, USA",Linux,14,1,0
+683,2026-08-04 07:23:00,grace,192.168.1.15,"New York, USA",MacOS,7,1,0
+833,2026-08-03 17:17:00,grace,192.168.1.30,"Boston, USA",Linux,17,1,0
+519,2026-08-05 04:26:00,frank,192.168.1.15,"New York, USA",Linux,4,1,0
+448,2026-08-12 04:45:00,henry,192.168.1.15,"New York, USA",MacOS,4,1,0
+19,2026-08-04 14:01:00,henry,192.168.1.20,"Chicago, USA",Windows,14,1,0
+716,2026-08-12 12:49:00,david,192.168.1.30,"Boston, USA",MacOS,12,1,0
+484,2026-08-01 09:53:00,david,192.168.1.10,"New York, USA",MacOS,9,1,0
+569,2026-08-09 21:53:00,grace,192.168.1.10,"New York, USA",MacOS,21,0,0
+434,2026-08-13 18:20:00,frank,192.168.1.20,"Chicago, USA",Linux,18,1,0
+368,2026-08-02 01:00:00,charlie,192.168.1.15,"New York, USA",Linux,1,1,0
+84,2026-08-10 09:36:00,david,192.168.1.20,"Chicago, USA",MacOS,9,1,0
+62,2026-08-08 11:35:00,david,192.168.1.15,"New York, USA",MacOS,11,1,0
+639,2026-08-10 01:43:00,jack,192.168.1.20,"Chicago, USA",MacOS,1,1,0
+273,2026-08-03 22:44:00,frank,192.168.1.20,"Chicago, USA",Linux,22,1,0
+286,2026-08-13 07:46:00,henry,192.168.1.20,"Chicago, USA",Windows,7,1,0
+361,2026-08-12 15:42:00,henry,192.168.1.20,"Chicago, USA",Linux,15,1,0
+355,2026-08-02 04:11:00,henry,192.168.1.20,"Chicago, USA",Windows,4,1,0
+457,2026-08-14 06:05:00,emma,192.168.1.15,"New York, USA",Windows,6,1,0
+279,2026-08-03 10:06:00,alice,192.168.1.30,"Boston, USA",Windows,10,1,0
+13,2026-08-05 00:49:00,frank,192.168.1.20,"Chicago, USA",MacOS,0,1,0
+183,2026-08-03 17:07:00,frank,192.168.1.15,"New York, USA",MacOS,17,1,0
+369,2026-08-02 03:00:00,henry,192.168.1.15,"New York, USA",Windows,3,1,0
+882,2026-08-08 03:14:00,isabella,192.168.1.30,"Boston, USA",MacOS,3,1,0
+616,2026-08-06 23:11:00,frank,192.168.1.25,"Chicago, USA",MacOS,23,1,0
+224,2026-08-15 03:32:00,david,192.168.1.20,"Chicago, USA",Windows,3,1,0
+573,2026-08-05 02:50:00,frank,192.168.1.30,"Boston, USA",Windows,2,1,0
+971,2026-08-11 12:16:00,jack,185.220.101.1,Unknown,Linux,4,0,1
+654,2026-08-08 09:23:00,bob,192.168.1.25,"Chicago, USA",Linux,9,1,0
+546,2026-08-09 23:34:00,jack,192.168.1.10,"New York, USA",Linux,23,1,0
+583,2026-08-06 21:12:00,charlie,192.168.1.30,"Boston, USA",Windows,21,1,0
+634,2026-08-04 10:53:00,emma,192.168.1.25,"Chicago, USA",Windows,10,1,0
+177,2026-08-14 22:36:00,bob,192.168.1.10,"New York, USA",MacOS,22,1,0
+666,2026-08-06 21:33:00,alice,192.168.1.10,"New York, USA",MacOS,21,1,0
+674,2026-08-06 20:28:00,jack,192.168.1.25,"Chicago, USA",MacOS,20,1,0
+586,2026-08-01 23:56:00,grace,192.168.1.30,"Boston, USA",Windows,23,1,0
+874,2026-08-04 03:17:00,jack,192.168.1.25,"Chicago, USA",MacOS,3,1,0
+394,2026-08-09 00:23:00,jack,192.168.1.30,"Boston, USA",Windows,0,1,0
+164,2026-08-15 03:07:00,grace,192.168.1.30,"Boston, USA",Linux,3,1,0
+249,2026-08-08 19:26:00,david,192.168.1.15,"New York, USA",Linux,19,1,0
+635,2026-08-02 21:21:00,charlie,192.168.1.30,"Boston, USA",Linux,21,1,0
+886,2026-08-09 08:22:00,bob,192.168.1.30,"Boston, USA",MacOS,8,1,0
+670,2026-08-02 12:45:00,isabella,192.168.1.15,"New York, USA",Windows,12,1,0
+376,2026-08-07 19:57:00,jack,192.168.1.25,"Chicago, USA",Windows,19,1,0
+413,2026-08-05 18:18:00,isabella,192.168.1.20,"Chicago, USA",Linux,18,1,0
+75,2026-08-13 17:57:00,charlie,192.168.1.10,"New York, USA",MacOS,17,1,0
+114,2026-08-04 19:27:00,grace,192.168.1.15,"New York, USA",Windows,19,1,0
+599,2026-08-01 13:14:00,frank,192.168.1.25,"Chicago, USA",Windows,13,1,0
+962,2026-08-02 12:41:00,david,45.33.32.156,Foreign Location,Windows,4,0,1
+391,2026-08-07 13:53:00,isabella,192.168.1.15,"New York, USA",Linux,13,1,0
+105,2026-08-01 11:01:00,charlie,192.168.1.10,"New York, USA",MacOS,11,1,0
+115,2026-08-13 16:20:00,frank,192.168.1.25,"Chicago, USA",MacOS,16,1,0
+418,2026-08-02 08:44:00,alice,192.168.1.10,"New York, USA",Windows,8,1,0
+526,2026-08-13 12:35:00,emma,192.168.1.20,"Chicago, USA",Windows,12,1,0
+458,2026-08-11 01:34:00,grace,192.168.1.30,"Boston, USA",MacOS,1,1,0
+410,2026-08-07 20:03:00,henry,192.168.1.30,"Boston, USA",Windows,20,1,0
+93,2026-08-08 11:26:00,frank,192.168.1.10,"New York, USA",Linux,11,1,0
+931,2026-08-03 06:29:00,isabella,192.168.1.20,"Chicago, USA",Windows,6,1,0
+90,2026-08-05 15:48:00,jack,192.168.1.20,"Chicago, USA",Windows,15,1,0
+337,2026-08-10 18:35:00,alice,192.168.1.10,"New York, USA",MacOS,18,1,0
+989,2026-08-08 07:00:00,charlie,185.220.101.1,Unknown,Windows,23,1,1
+922,2026-08-08 12:47:00,grace,192.168.1.10,"New York, USA",MacOS,12,1,0
+934,2026-08-05 18:07:00,emma,192.168.1.10,"New York, USA",Windows,18,1,0
+606,2026-08-11 09:02:00,alice,192.168.1.30,"Boston, USA",Windows,9,0,0
+594,2026-08-04 00:22:00,frank,192.168.1.15,"New York, USA",MacOS,0,1,0
+612,2026-08-14 21:57:00,emma,192.168.1.30,"Boston, USA",Windows,21,1,0
+95,2026-08-13 22:46:00,emma,192.168.1.15,"New York, USA",Windows,22,1,0
+12,2026-08-09 23:35:00,bob,192.168.1.20,"Chicago, USA",MacOS,23,1,0
+397,2026-08-12 15:59:00,alice,192.168.1.30,"Boston, USA",MacOS,15,1,0
+534,2026-08-11 04:58:00,henry,192.168.1.20,"Chicago, USA",Linux,4,0,0
+44,2026-08-05 15:59:00,grace,192.168.1.10,"New York, USA",Windows,15,1,0
+43,2026-08-14 10:41:00,jack,192.168.1.25,"Chicago, USA",Windows,10,1,0
+330,2026-08-05 17:57:00,henry,192.168.1.20,"Chicago, USA",Linux,17,1,0
+168,2026-08-04 21:46:00,bob,192.168.1.15,"New York, USA",Windows,21,1,0
+498,2026-08-08 03:46:00,charlie,192.168.1.25,"Chicago, USA",Windows,3,1,0
+877,2026-08-05 08:46:00,isabella,192.168.1.30,"Boston, USA",Windows,8,1,0
+598,2026-08-05 14:10:00,charlie,192.168.1.20,"Chicago, USA",MacOS,14,1,0
+757,2026-08-14 08:46:00,henry,192.168.1.15,"New York, USA",MacOS,8,1,0
+101,2026-08-03 11:00:00,frank,192.168.1.15,"New York, USA",Linux,11,1,0
+427,2026-08-05 05:07:00,henry,192.168.1.30,"Boston, USA",Linux,5,1,0
+179,2026-08-14 16:38:00,jack,192.168.1.10,"New York, USA",Linux,16,1,0
+445,2026-08-06 11:14:00,isabella,192.168.1.15,"New York, USA",Windows,11,1,0
+417,2026-08-05 20:42:00,charlie,192.168.1.30,"Boston, USA",Linux,20,1,0
+871,2026-08-03 18:24:00,grace,192.168.1.20,"Chicago, USA",Linux,18,1,0
+883,2026-08-06 06:41:00,isabella,192.168.1.15,"New York, USA",Windows,6,1,0
+681,2026-08-11 18:22:00,frank,192.168.1.10,"New York, USA",Linux,18,1,0
+178,2026-08-07 00:44:00,jack,192.168.1.10,"New York, USA",Windows,0,1,0
+396,2026-08-06 03:07:00,emma,192.168.1.30,"Boston, USA",MacOS,3,1,0
+912,2026-08-03 21:55:00,grace,192.168.1.25,"Chicago, USA",MacOS,21,1,0
+794,2026-08-12 07:05:00,bob,192.168.1.10,"New York, USA",MacOS,7,0,0
+961,2026-08-10 08:32:00,henry,185.220.101.1,Unknown,MacOS,0,0,1
+685,2026-08-03 00:47:00,david,192.168.1.15,"New York, USA",Windows,0,1,0
+384,2026-08-12 05:24:00,grace,192.168.1.30,"Boston, USA",MacOS,5,1,0
+957,2026-08-12 12:40:00,bob,45.33.32.156,Foreign Location,Linux,4,0,1
+752,2026-08-11 21:59:00,henry,192.168.1.20,"Chicago, USA",Windows,21,1,0
+258,2026-08-12 11:45:00,bob,192.168.1.25,"Chicago, USA",Windows,11,1,0
+539,2026-08-03 02:01:00,grace,192.168.1.20,"Chicago, USA",Windows,2,1,0
+336,2026-08-03 10:05:00,grace,192.168.1.15,"New York, USA",MacOS,10,1,0
+16,2026-08-06 07:56:00,isabella,192.168.1.20,"Chicago, USA",Windows,7,1,0
+325,2026-08-08 23:55:00,alice,192.168.1.30,"Boston, USA",Windows,23,1,0
+759,2026-08-04 16:31:00,jack,192.168.1.10,"New York, USA",MacOS,16,1,0
+223,2026-08-15 03:10:00,alice,192.168.1.25,"Chicago, USA",MacOS,3,1,0
+180,2026-08-02 05:58:00,jack,192.168.1.15,"New York, USA",MacOS,5,1,0
+984,2026-08-13 09:26:00,grace,91.108.4.20,Foreign Location,Linux,1,1,1
+23,2026-08-04 19:28:00,bob,192.168.1.15,"New York, USA",Linux,19,1,0
+357,2026-08-12 02:32:00,isabella,192.168.1.20,"Chicago, USA",Windows,2,1,0
+667,2026-08-05 09:44:00,charlie,192.168.1.10,"New York, USA",Linux,9,1,0
+862,2026-08-12 15:37:00,bob,192.168.1.10,"New York, USA",Windows,15,1,0
+341,2026-08-01 10:52:00,jack,192.168.1.10,"New York, USA",Windows,10,1,0
+432,2026-08-14 02:19:00,david,192.168.1.20,"Chicago, USA",Linux,2,1,0
+552,2026-08-09 09:17:00,bob,192.168.1.30,"Boston, USA",Windows,9,1,0
+834,2026-08-03 22:15:00,emma,192.168.1.10,"New York, USA",MacOS,22,1,0
+204,2026-08-12 18:19:00,charlie,192.168.1.30,"Boston, USA",MacOS,18,1,0
+631,2026-08-11 11:03:00,isabella,192.168.1.10,"New York, USA",Windows,11,1,0
+94,2026-08-08 08:54:00,isabella,192.168.1.25,"Chicago, USA",MacOS,8,1,0
+559,2026-08-04 09:59:00,bob,192.168.1.20,"Chicago, USA",Windows,9,1,0
+69,2026-08-13 22:08:00,bob,192.168.1.15,"New York, USA",MacOS,22,1,0
+623,2026-08-12 09:03:00,jack,192.168.1.20,"Chicago, USA",Linux,9,1,0
+285,2026-08-03 20:33:00,grace,192.168.1.20,"Chicago, USA",Linux,20,1,0
+845,2026-08-09 19:30:00,bob,192.168.1.20,"Chicago, USA",Windows,19,1,0
+435,2026-08-15 05:10:00,emma,192.168.1.25,"Chicago, USA",Windows,5,1,0
+154,2026-08-05 16:36:00,charlie,192.168.1.15,"New York, USA",Linux,16,1,0
+76,2026-08-11 02:43:00,charlie,192.168.1.15,"New York, USA",Windows,2,1,0
+731,2026-08-05 03:41:00,frank,192.168.1.10,"New York, USA",Linux,3,1,0
+447,2026-08-13 20:33:00,alice,192.168.1.15,"New York, USA",MacOS,20,1,0
+189,2026-08-04 07:33:00,isabella,192.168.1.20,"Chicago, USA",MacOS,7,1,0
+272,2026-08-06 10:28:00,henry,192.168.1.10,"New York, USA",MacOS,10,1,0
+237,2026-08-08 05:02:00,henry,192.168.1.25,"Chicago, USA",Windows,5,1,0
+488,2026-08-06 19:26:00,alice,192.168.1.15,"New York, USA",Windows,19,1,0
+118,2026-08-10 04:59:00,emma,192.168.1.25,"Chicago, USA",Linux,4,1,0
+944,2026-08-12 09:57:00,emma,192.168.1.30,"Boston, USA",Windows,9,1,0
+513,2026-08-08 10:53:00,frank,192.168.1.25,"Chicago, USA",Windows,10,1,0
+826,2026-08-09 16:12:00,bob,192.168.1.10,"New York, USA",MacOS,16,1,0
+592,2026-08-09 06:00:00,bob,192.168.1.20,"Chicago, USA",MacOS,6,1,0
+127,2026-08-02 12:26:00,isabella,192.168.1.20,"Chicago, USA",Windows,12,1,0
+117,2026-08-09 23:44:00,jack,192.168.1.25,"Chicago, USA",Windows,23,1,0
+474,2026-08-02 14:23:00,henry,192.168.1.25,"Chicago, USA",Windows,14,1,0
+694,2026-08-04 12:20:00,bob,192.168.1.10,"New York, USA",Windows,12,1,0
+58,2026-08-02 21:25:00,charlie,192.168.1.30,"Boston, USA",Windows,21,1,0
+864,2026-08-08 06:21:00,jack,192.168.1.30,"Boston, USA",Linux,6,1,0
+913,2026-08-01 21:29:00,emma,192.168.1.30,"Boston, USA",MacOS,21,1,0
+370,2026-08-09 13:46:00,frank,192.168.1.25,"Chicago, USA",Linux,13,1,0
+269,2026-08-14 02:45:00,isabella,192.168.1.20,"Chicago, USA",Linux,2,1,0
+47,2026-08-06 23:47:00,bob,192.168.1.15,"New York, USA",Windows,23,1,0
+350,2026-08-02 07:46:00,henry,192.168.1.25,"Chicago, USA",MacOS,7,1,0
+196,2026-08-04 10:33:00,isabella,192.168.1.10,"New York, USA",MacOS,10,1,0
+1000,2026-08-10 08:16:00,grace,185.220.101.1,Unknown,MacOS,0,0,1
+835,2026-08-07 07:37:00,david,192.168.1.30,"Boston, USA",Windows,7,1,0
+737,2026-08-05 00:49:00,david,192.168.1.25,"Chicago, USA",Windows,0,1,0
+264,2026-08-09 01:06:00,grace,192.168.1.25,"Chicago, USA",MacOS,1,1,0
+444,2026-08-06 18:40:00,jack,192.168.1.15,"New York, USA",Windows,18,1,0
+676,2026-08-01 21:03:00,grace,192.168.1.15,"New York, USA",Linux,21,1,0
+305,2026-08-12 21:04:00,frank,192.168.1.10,"New York, USA",MacOS,21,1,0
+342,2026-08-13 19:43:00,charlie,192.168.1.30,"Boston, USA",Linux,19,1,0
+967,2026-08-01 12:09:00,isabella,185.220.101.1,Unknown,Windows,4,0,1
+150,2026-08-14 13:36:00,emma,192.168.1.20,"Chicago, USA",MacOS,13,1,0
+125,2026-08-08 18:30:00,henry,192.168.1.20,"Chicago, USA",MacOS,18,1,0
+787,2026-08-06 00:54:00,david,192.168.1.20,"Chicago, USA",Linux,0,1,0
+51,2026-08-12 06:53:00,henry,192.168.1.15,"New York, USA",MacOS,6,1,0
+354,2026-08-05 11:32:00,henry,192.168.1.15,"New York, USA",Windows,11,1,0
+928,2026-08-08 01:05:00,isabella,192.168.1.15,"New York, USA",MacOS,1,1,0
+143,2026-08-15 05:19:00,jack,192.168.1.25,"Chicago, USA",MacOS,5,1,0
+471,2026-08-12 20:03:00,isabella,192.168.1.15,"New York, USA",Linux,20,1,0
+400,2026-08-11 21:38:00,henry,192.168.1.15,"New York, USA",MacOS,21,1,0
+626,2026-08-05 22:29:00,grace,192.168.1.15,"New York, USA",Linux,22,1,0
+321,2026-08-09 13:36:00,isabella,192.168.1.10,"New York, USA",MacOS,13,1,0
+20,2026-08-13 14:21:00,isabella,192.168.1.20,"Chicago, USA",Linux,14,1,0
+810,2026-08-09 03:08:00,david,192.168.1.25,"Chicago, USA",Linux,3,1,0
+791,2026-08-07 01:37:00,henry,192.168.1.15,"New York, USA",MacOS,1,1,0
+809,2026-08-10 17:36:00,emma,192.168.1.10,"New York, USA",Windows,17,1,0
+408,2026-08-12 20:02:00,grace,192.168.1.25,"Chicago, USA",Windows,20,1,0
+538,2026-08-01 16:33:00,frank,192.168.1.15,"New York, USA",Linux,16,1,0
+621,2026-08-06 06:57:00,grace,192.168.1.25,"Chicago, USA",Windows,6,1,0
+39,2026-08-14 17:17:00,alice,192.168.1.30,"Boston, USA",Windows,17,1,0
+176,2026-08-07 12:40:00,grace,192.168.1.30,"Boston, USA",Linux,12,1,0
+246,2026-08-01 19:39:00,jack,192.168.1.10,"New York, USA",MacOS,19,1,0
+829,2026-08-11 10:39:00,grace,192.168.1.25,"Chicago, USA",Windows,10,1,0
+668,2026-08-06 10:36:00,grace,192.168.1.20,"Chicago, USA",Windows,10,1,0
+755,2026-08-06 12:15:00,jack,192.168.1.30,"Boston, USA",Windows,12,1,0
+859,2026-08-02 11:29:00,emma,192.168.1.30,"Boston, USA",Windows,11,1,0
+155,2026-08-13 06:31:00,jack,192.168.1.30,"Boston, USA",MacOS,6,0,0
+288,2026-08-04 10:56:00,david,192.168.1.20,"Chicago, USA",MacOS,10,1,0
+603,2026-08-13 13:36:00,david,192.168.1.20,"Chicago, USA",Windows,13,1,0
+570,2026-08-14 13:58:00,henry,192.168.1.25,"Chicago, USA",Linux,13,1,0
+744,2026-08-07 08:52:00,isabella,192.168.1.20,"Chicago, USA",MacOS,8,1,0
+18,2026-08-08 11:51:00,jack,192.168.1.15,"New York, USA",Linux,11,1,0
+128,2026-08-02 00:56:00,alice,192.168.1.15,"New York, USA",Windows,0,1,0
+323,2026-08-04 20:37:00,charlie,192.168.1.10,"New York, USA",MacOS,20,1,0
+256,2026-08-13 04:46:00,alice,192.168.1.20,"Chicago, USA",MacOS,4,1,0
+658,2026-08-05 01:28:00,alice,192.168.1.25,"Chicago, USA",MacOS,1,1,0
+965,2026-08-04 12:10:00,henry,91.108.4.20,Foreign Location,MacOS,4,0,1
+191,2026-08-04 22:29:00,david,192.168.1.20,"Chicago, USA",Linux,22,1,0
+116,2026-08-10 04:42:00,grace,192.168.1.30,"Boston, USA",Linux,4,1,0
+617,2026-08-10 18:13:00,emma,192.168.1.25,"Chicago, USA",MacOS,18,1,0
+607,2026-08-06 23:11:00,bob,192.168.1.20,"Chicago, USA",Windows,23,1,0
+181,2026-08-07 15:54:00,henry,192.168.1.15,"New York, USA",Linux,15,1,0
+302,2026-08-11 13:09:00,jack,192.168.1.30,"Boston, USA",Linux,13,1,0
+760,2026-08-06 03:43:00,charlie,192.168.1.15,"New York, USA",Windows,3,1,0
+713,2026-08-09 09:46:00,grace,192.168.1.15,"New York, USA",Windows,9,1,0
+724,2026-08-08 13:16:00,henry,192.168.1.15,"New York, USA",Linux,13,1,0
+686,2026-08-03 19:30:00,jack,192.168.1.15,"New York, USA",Windows,19,1,0
+980,2026-08-09 11:16:00,jack,185.220.101.1,Unknown,Windows,3,0,1
+518,2026-08-12 11:55:00,henry,192.168.1.25,"Chicago, USA",Windows,11,1,0
+985,2026-08-06 12:35:00,charlie,45.33.32.156,Foreign Location,MacOS,4,0,1
+46,2026-08-03 13:44:00,alice,192.168.1.10,"New York, USA",MacOS,13,1,0
+910,2026-08-03 22:39:00,alice,192.168.1.20,"Chicago, USA",MacOS,22,1,0
+158,2026-08-13 22:12:00,alice,192.168.1.20,"Chicago, USA",Linux,22,1,0
+852,2026-08-02 09:06:00,henry,192.168.1.10,"New York, USA",MacOS,9,1,0
+172,2026-08-14 18:06:00,emma,192.168.1.15,"New York, USA",MacOS,18,1,0
+17,2026-08-08 12:16:00,alice,192.168.1.25,"Chicago, USA",MacOS,12,1,0
+512,2026-08-03 13:51:00,henry,192.168.1.25,"Chicago, USA",MacOS,13,1,0
+49,2026-08-11 10:00:00,bob,192.168.1.30,"Boston, USA",Windows,10,1,0
+972,2026-08-10 12:04:00,henry,185.220.101.1,Unknown,MacOS,4,1,1
+941,2026-08-11 01:54:00,frank,192.168.1.15,"New York, USA",Windows,1,1,0
+516,2026-08-06 13:37:00,frank,192.168.1.25,"Chicago, USA",Linux,13,1,0
+953,2026-08-03 12:36:00,charlie,91.108.4.20,Foreign Location,Windows,4,1,1
+481,2026-08-09 21:09:00,grace,192.168.1.10,"New York, USA",Linux,21,1,0
+284,2026-08-07 13:11:00,grace,192.168.1.15,"New York, USA",Linux,13,1,0
+719,2026-08-05 22:01:00,jack,192.168.1.15,"New York, USA",MacOS,22,1,0
+878,2026-08-03 16:33:00,charlie,192.168.1.25,"Chicago, USA",Linux,16,1,0
+226,2026-08-08 08:43:00,alice,192.168.1.25,"Chicago, USA",Windows,8,1,0
+27,2026-08-11 05:26:00,emma,192.168.1.15,"New York, USA",MacOS,5,1,0
+955,2026-08-06 09:02:00,emma,91.108.4.20,Foreign Location,Windows,1,0,1
+438,2026-08-12 06:02:00,frank,192.168.1.20,"Chicago, USA",Linux,6,1,0
+952,2026-08-11 09:48:00,jack,91.108.4.20,Foreign Location,Windows,1,1,1
+365,2026-08-05 03:00:00,grace,192.168.1.25,"Chicago, USA",MacOS,3,1,0
+230,2026-08-12 07:09:00,emma,192.168.1.20,"Chicago, USA",Linux,7,1,0
+38,2026-08-04 02:05:00,henry,192.168.1.15,"New York, USA",Windows,2,1,0
+966,2026-08-01 09:36:00,david,91.108.4.20,Foreign Location,Windows,1,0,1
+375,2026-08-07 06:57:00,bob,192.168.1.20,"Chicago, USA",Linux,6,1,0
+470,2026-08-03 02:39:00,frank,192.168.1.30,"Boston, USA",Windows,2,1,0
+968,2026-08-09 11:38:00,charlie,91.108.4.20,Foreign Location,Linux,3,0,1
+851,2026-08-12 07:49:00,charlie,192.168.1.25,"Chicago, USA",Windows,7,1,0
+705,2026-08-05 20:55:00,grace,192.168.1.30,"Boston, USA",Windows,20,1,0
+842,2026-08-08 10:46:00,frank,192.168.1.25,"Chicago, USA",Linux,10,1,0
+195,2026-08-04 14:59:00,isabella,192.168.1.25,"Chicago, USA",Windows,14,1,0
+855,2026-08-11 04:23:00,bob,192.168.1.15,"New York, USA",MacOS,4,1,0
+865,2026-08-09 02:09:00,henry,192.168.1.20,"Chicago, USA",Windows,2,1,0
+504,2026-08-02 12:08:00,david,192.168.1.20,"Chicago, USA",MacOS,12,1,0
+970,2026-08-04 11:38:00,charlie,185.220.101.1,Unknown,Linux,3,0,1
+831,2026-08-08 04:26:00,alice,192.168.1.25,"Chicago, USA",Linux,4,1,0
+580,2026-08-06 00:58:00,henry,192.168.1.30,"Boston, USA",MacOS,0,1,0
+969,2026-08-02 09:28:00,emma,91.108.4.20,Foreign Location,MacOS,1,1,1
+163,2026-08-08 05:56:00,jack,192.168.1.10,"New York, USA",Windows,5,1,0
+909,2026-08-13 09:43:00,jack,192.168.1.25,"Chicago, USA",Linux,9,1,0
+153,2026-08-08 12:19:00,david,192.168.1.10,"New York, USA",Linux,12,1,0
+802,2026-08-14 00:52:00,charlie,192.168.1.15,"New York, USA",MacOS,0,1,0
+994,2026-08-13 12:32:00,alice,91.108.4.20,Foreign Location,Linux,4,0,1
+756,2026-08-10 20:37:00,isabella,192.168.1.30,"Boston, USA",Linux,20,1,0
+112,2026-08-03 02:18:00,henry,192.168.1.20,"Chicago, USA",Windows,2,1,0
+227,2026-08-03 09:13:00,charlie,192.168.1.20,"Chicago, USA",MacOS,9,1,0
+689,2026-08-03 09:22:00,bob,192.168.1.15,"New York, USA",Linux,9,1,0
+104,2026-08-05 18:11:00,jack,192.168.1.25,"Chicago, USA",MacOS,18,1,0
+422,2026-08-13 10:43:00,isabella,192.168.1.25,"Chicago, USA",Linux,10,1,0
+420,2026-08-04 12:20:00,isabella,192.168.1.20,"Chicago, USA",Linux,12,1,0
+751,2026-08-09 17:44:00,grace,192.168.1.15,"New York, USA",MacOS,17,1,0
+587,2026-08-10 04:21:00,grace,192.168.1.10,"New York, USA",Linux,4,1,0
+781,2026-08-09 12:48:00,alice,192.168.1.15,"New York, USA",MacOS,12,1,0
+673,2026-08-05 21:35:00,frank,192.168.1.20,"Chicago, USA",Linux,21,1,0
+120,2026-08-12 09:13:00,grace,192.168.1.10,"New York, USA",MacOS,9,1,0
+54,2026-08-12 09:47:00,isabella,192.168.1.15,"New York, USA",Windows,9,1,0
+152,2026-08-07 11:57:00,henry,192.168.1.20,"Chicago, USA",MacOS,11,1,0
+404,2026-08-02 11:38:00,bob,192.168.1.20,"Chicago, USA",MacOS,11,1,0
+946,2026-08-07 07:45:00,david,192.168.1.10,"New York, USA",Linux,7,1,0
+208,2026-08-08 19:26:00,bob,192.168.1.30,"Boston, USA",MacOS,19,1,0
+659,2026-08-05 03:11:00,emma,192.168.1.20,"Chicago, USA",Windows,3,1,0
+844,2026-08-09 11:15:00,frank,192.168.1.25,"Chicago, USA",Linux,11,1,0
+763,2026-08-03 07:31:00,bob,192.168.1.25,"Chicago, USA",Linux,7,1,0
+9,2026-08-13 12:51:00,henry,192.168.1.10,"New York, USA",MacOS,12,1,0
+808,2026-08-12 17:19:00,david,192.168.1.10,"New York, USA",Linux,17,1,0
+37,2026-08-10 09:54:00,emma,192.168.1.20,"Chicago, USA",MacOS,9,1,0
+453,2026-08-08 22:58:00,bob,192.168.1.20,"Chicago, USA",MacOS,22,0,0
+652,2026-08-03 03:09:00,emma,192.168.1.30,"Boston, USA",Windows,3,0,0
+254,2026-08-12 04:05:00,bob,192.168.1.25,"Chicago, USA",MacOS,4,1,0
+304,2026-08-11 09:30:00,henry,192.168.1.20,"Chicago, USA",MacOS,9,1,0
+747,2026-08-14 23:47:00,emma,192.168.1.25,"Chicago, USA",Windows,23,1,0
+572,2026-08-14 20:18:00,isabella,192.168.1.10,"New York, USA",Windows,20,1,0
+624,2026-08-03 14:22:00,alice,192.168.1.25,"Chicago, USA",Windows,14,1,0
+733,2026-08-09 07:24:00,bob,192.168.1.20,"Chicago, USA",Windows,7,1,0
+892,2026-08-14 02:51:00,bob,192.168.1.15,"New York, USA",Linux,2,1,0
+263,2026-08-06 05:25:00,isabella,192.168.1.25,"Chicago, USA",MacOS,5,1,0
+611,2026-08-06 01:01:00,david,192.168.1.10,"New York, USA",Linux,1,1,0
+298,2026-08-12 22:47:00,bob,192.168.1.10,"New York, USA",Linux,22,1,0
+415,2026-08-15 05:42:00,jack,192.168.1.10,"New York, USA",Windows,5,0,0
+151,2026-08-11 00:22:00,frank,192.168.1.30,"Boston, USA",MacOS,0,1,0
+789,2026-08-01 12:37:00,jack,192.168.1.15,"New York, USA",MacOS,12,1,0
+641,2026-08-15 00:13:00,isabella,192.168.1.30,"Boston, USA",Linux,0,1,0
+890,2026-08-04 15:58:00,emma,192.168.1.10,"New York, USA",Linux,15,1,0
+551,2026-08-13 22:57:00,isabella,192.168.1.30,"Boston, USA",MacOS,22,1,0
+887,2026-08-13 11:34:00,grace,192.168.1.20,"Chicago, USA",MacOS,11,1,0
+489,2026-08-11 11:48:00,alice,192.168.1.30,"Boston, USA",Linux,11,1,0
+148,2026-08-12 04:00:00,david,192.168.1.25,"Chicago, USA",MacOS,4,1,0
+147,2026-08-06 19:48:00,bob,192.168.1.25,"Chicago, USA",MacOS,19,1,0
+721,2026-08-03 20:34:00,charlie,192.168.1.30,"Boston, USA",MacOS,20,1,0
+932,2026-08-06 03:38:00,frank,192.168.1.25,"Chicago, USA",Linux,3,1,0
+740,2026-08-03 00:57:00,charlie,192.168.1.30,"Boston, USA",Windows,0,1,0
+660,2026-08-04 00:28:00,emma,192.168.1.10,"New York, USA",MacOS,0,1,0
+349,2026-08-12 21:04:00,isabella,192.168.1.30,"Boston, USA",Linux,21,1,0
+464,2026-08-08 09:50:00,isabella,192.168.1.10,"New York, USA",Linux,9,1,0
+326,2026-08-05 00:36:00,charlie,192.168.1.15,"New York, USA",Linux,0,1,0
+187,2026-08-10 17:41:00,henry,192.168.1.10,"New York, USA",Windows,17,1,0
+124,2026-08-02 11:27:00,charlie,192.168.1.20,"Chicago, USA",MacOS,11,1,0
+854,2026-08-13 03:29:00,frank,192.168.1.30,"Boston, USA",Linux,3,1,0
+609,2026-08-06 02:37:00,david,192.168.1.30,"Boston, USA",Linux,2,1,0
+144,2026-08-05 11:18:00,frank,192.168.1.25,"Chicago, USA",Windows,11,1,0
+959,2026-08-11 07:57:00,frank,185.220.101.1,Unknown,Linux,23,0,1
+198,2026-08-08 03:03:00,emma,192.168.1.30,"Boston, USA",Linux,3,0,0
+610,2026-08-11 01:50:00,jack,192.168.1.15,"New York, USA",Linux,1,1,0
+280,2026-08-09 02:10:00,henry,192.168.1.15,"New York, USA",MacOS,2,1,0
+294,2026-08-08 17:22:00,alice,192.168.1.15,"New York, USA",Linux,17,1,0
+401,2026-08-08 14:23:00,frank,192.168.1.20,"Chicago, USA",MacOS,14,1,0
+123,2026-08-03 05:50:00,alice,192.168.1.25,"Chicago, USA",Windows,5,1,0
+184,2026-08-07 21:24:00,henry,192.168.1.25,"Chicago, USA",Linux,21,1,0
+203,2026-08-10 02:51:00,grace,192.168.1.15,"New York, USA",MacOS,2,1,0
+439,2026-08-07 21:10:00,emma,192.168.1.10,"New York, USA",Linux,21,1,0
+247,2026-08-14 04:20:00,charlie,192.168.1.15,"New York, USA",Windows,4,1,0
+416,2026-08-09 19:48:00,grace,192.168.1.20,"Chicago, USA",Linux,19,1,0
+933,2026-08-04 23:54:00,charlie,192.168.1.15,"New York, USA",Windows,23,1,0
+766,2026-08-04 16:56:00,charlie,192.168.1.30,"Boston, USA",Linux,16,1,0
+907,2026-08-09 06:49:00,bob,192.168.1.15,"New York, USA",Windows,6,1,0
+836,2026-08-08 01:18:00,grace,192.168.1.15,"New York, USA",Windows,1,1,0
+888,2026-08-03 18:08:00,isabella,192.168.1.10,"New York, USA",MacOS,18,1,0
+130,2026-08-14 04:00:00,bob,192.168.1.15,"New York, USA",MacOS,4,1,0
+638,2026-08-03 07:20:00,david,192.168.1.10,"New York, USA",Windows,7,1,0
+403,2026-08-04 02:54:00,henry,192.168.1.20,"Chicago, USA",MacOS,2,1,0
+785,2026-08-07 05:15:00,charlie,192.168.1.10,"New York, USA",MacOS,5,1,0
+771,2026-08-02 05:10:00,grace,192.168.1.25,"Chicago, USA",MacOS,5,1,0
+736,2026-08-03 15:23:00,grace,192.168.1.25,"Chicago, USA",Linux,15,1,0
+914,2026-08-11 11:20:00,isabella,192.168.1.25,"Chicago, USA",Windows,11,1,0
+220,2026-08-03 18:14:00,henry,192.168.1.15,"New York, USA",MacOS,18,1,0
+642,2026-08-08 04:44:00,alice,192.168.1.15,"New York, USA",Linux,4,1,0
+916,2026-08-13 13:48:00,charlie,192.168.1.30,"Boston, USA",Windows,13,1,0
+753,2026-08-02 17:39:00,jack,192.168.1.15,"New York, USA",Linux,17,1,0
+807,2026-08-14 12:55:00,jack,192.168.1.30,"Boston, USA",Windows,12,1,0
+920,2026-08-14 00:47:00,emma,192.168.1.10,"New York, USA",Linux,0,1,0
+625,2026-08-11 09:00:00,charlie,192.168.1.25,"Chicago, USA",Windows,9,0,0
+875,2026-08-04 09:31:00,isabella,192.168.1.25,"Chicago, USA",Windows,9,1,0
+761,2026-08-11 05:46:00,bob,192.168.1.15,"New York, USA",Linux,5,1,0
+387,2026-08-14 17:00:00,isabella,192.168.1.15,"New York, USA",Windows,17,1,0
+973,2026-08-02 08:12:00,charlie,91.108.4.20,Foreign Location,Linux,0,1,1
+510,2026-08-09 23:53:00,emma,192.168.1.25,"Chicago, USA",Linux,23,1,0
+268,2026-08-04 07:03:00,frank,192.168.1.30,"Boston, USA",Windows,7,1,0
+820,2026-08-12 18:53:00,grace,192.168.1.30,"Boston, USA",MacOS,18,1,0
+442,2026-08-06 04:51:00,henry,192.168.1.15,"New York, USA",Linux,4,1,0
+497,2026-08-13 06:25:00,grace,192.168.1.20,"Chicago, USA",Linux,6,1,0
+113,2026-08-13 14:59:00,frank,192.168.1.10,"New York, USA",Windows,14,1,0
+692,2026-08-07 06:05:00,emma,192.168.1.15,"New York, USA",Windows,6,1,0
+233,2026-08-01 15:36:00,grace,192.168.1.20,"Chicago, USA",Linux,15,1,0
+870,2026-08-05 01:39:00,alice,192.168.1.25,"Chicago, USA",Windows,1,1,0
+608,2026-08-03 07:30:00,frank,192.168.1.25,"Chicago, USA",Windows,7,1,0
+672,2026-08-08 18:44:00,emma,192.168.1.10,"New York, USA",Linux,18,1,0
+374,2026-08-12 16:32:00,charlie,192.168.1.30,"Boston, USA",MacOS,16,1,0
+982,2026-08-07 10:06:00,frank,185.220.101.1,Unknown,MacOS,2,0,1
+843,2026-08-01 13:16:00,alice,192.168.1.15,"New York, USA",Linux,13,1,0
+234,2026-08-07 07:10:00,frank,192.168.1.30,"Boston, USA",MacOS,7,1,0
+786,2026-08-05 00:58:00,alice,192.168.1.30,"Boston, USA",Windows,0,1,0
+677,2026-08-08 22:57:00,alice,192.168.1.10,"New York, USA",Linux,22,1,0
+318,2026-08-04 06:25:00,grace,192.168.1.30,"Boston, USA",Linux,6,1,0
+649,2026-08-10 09:20:00,alice,192.168.1.30,"Boston, USA",MacOS,9,1,0
+411,2026-08-04 09:08:00,grace,192.168.1.20,"Chicago, USA",Linux,9,1,0
+899,2026-08-05 14:06:00,bob,192.168.1.15,"New York, USA",Linux,14,1,0
+710,2026-08-13 09:08:00,henry,192.168.1.20,"Chicago, USA",Linux,9,0,0
+359,2026-08-07 13:12:00,frank,192.168.1.10,"New York, USA",MacOS,13,1,0
+259,2026-08-15 04:12:00,frank,192.168.1.15,"New York, USA",Windows,4,1,0
+745,2026-08-10 06:34:00,alice,192.168.1.30,"Boston, USA",Linux,6,1,0
+628,2026-08-02 12:16:00,charlie,192.168.1.25,"Chicago, USA",Linux,12,1,0
+633,2026-08-03 08:47:00,grace,192.168.1.10,"New York, USA",Windows,8,1,0
+283,2026-08-11 09:59:00,emma,192.168.1.25,"Chicago, USA",MacOS,9,1,0
+377,2026-08-11 14:52:00,bob,192.168.1.15,"New York, USA",Linux,14,1,0
+385,2026-08-03 00:16:00,jack,192.168.1.15,"New York, USA",MacOS,0,1,0
+225,2026-08-07 00:52:00,jack,192.168.1.15,"New York, USA",Linux,0,1,0
+954,2026-08-01 09:48:00,frank,45.33.32.156,Foreign Location,Windows,1,0,1
+815,2026-08-04 06:40:00,bob,192.168.1.30,"Boston, USA",MacOS,6,1,0
+473,2026-08-14 14:28:00,david,192.168.1.25,"Chicago, USA",Windows,14,1,0
+348,2026-08-13 05:53:00,bob,192.168.1.20,"Chicago, USA",Windows,5,1,0
+506,2026-08-14 01:12:00,jack,192.168.1.15,"New York, USA",MacOS,1,1,0
+640,2026-08-06 23:19:00,charlie,192.168.1.20,"Chicago, USA",Linux,23,1,0
+988,2026-08-13 12:39:00,frank,91.108.4.20,Foreign Location,Linux,4,0,1
+929,2026-08-01 14:05:00,frank,192.168.1.30,"Boston, USA",Linux,14,1,0
+906,2026-08-04 23:02:00,isabella,192.168.1.25,"Chicago, USA",Linux,23,1,0
+620,2026-08-11 18:22:00,bob,192.168.1.20,"Chicago, USA",Windows,18,1,0
+856,2026-08-04 17:11:00,grace,192.168.1.30,"Boston, USA",Linux,17,1,0
+804,2026-08-03 08:46:00,frank,192.168.1.15,"New York, USA",MacOS,8,1,0
+646,2026-08-04 08:04:00,frank,192.168.1.25,"Chicago, USA",Linux,8,1,0
+847,2026-08-10 22:19:00,henry,192.168.1.15,"New York, USA",Windows,22,1,0
+557,2026-08-08 03:42:00,grace,192.168.1.25,"Chicago, USA",Windows,3,1,0
+958,2026-08-09 12:11:00,jack,45.33.32.156,Foreign Location,Linux,4,1,1
+578,2026-08-12 07:39:00,alice,192.168.1.10,"New York, USA",MacOS,7,1,0
+796,2026-08-05 14:52:00,emma,192.168.1.15,"New York, USA",Linux,14,1,0
+86,2026-08-08 20:51:00,isabella,192.168.1.10,"New York, USA",Windows,20,1,0
+243,2026-08-09 14:04:00,david,192.168.1.10,"New York, USA",Linux,14,1,0
+699,2026-08-02 11:39:00,henry,192.168.1.15,"New York, USA",Linux,11,1,0
+160,2026-08-11 08:33:00,henry,192.168.1.20,"Chicago, USA",Windows,8,1,0
+525,2026-08-10 16:38:00,isabella,192.168.1.10,"New York, USA",Windows,16,1,0
+36,2026-08-06 03:40:00,grace,192.168.1.30,"Boston, USA",Linux,3,1,0
+541,2026-08-03 02:49:00,charlie,192.168.1.30,"Boston, USA",Linux,2,0,0
+171,2026-08-11 15:57:00,emma,192.168.1.10,"New York, USA",Linux,15,1,0
+655,2026-08-02 15:37:00,david,192.168.1.15,"New York, USA",Windows,15,1,0
+891,2026-08-13 15:33:00,david,192.168.1.10,"New York, USA",MacOS,15,1,0
+858,2026-08-12 12:30:00,bob,192.168.1.20,"Chicago, USA",Windows,12,1,0
+848,2026-08-04 23:03:00,alice,192.168.1.10,"New York, USA",MacOS,23,1,0
+945,2026-08-03 04:46:00,jack,192.168.1.20,"Chicago, USA",Windows,4,1,0
+734,2026-08-10 02:46:00,alice,192.168.1.25,"Chicago, USA",Linux,2,1,0
+96,2026-08-05 07:02:00,grace,192.168.1.30,"Boston, USA",Linux,7,1,0
+564,2026-08-09 21:22:00,frank,192.168.1.20,"Chicago, USA",MacOS,21,1,0
+241,2026-08-03 14:04:00,grace,192.168.1.25,"Chicago, USA",Linux,14,1,0
+743,2026-08-06 00:15:00,frank,192.168.1.15,"New York, USA",MacOS,0,1,0
+575,2026-08-06 09:14:00,emma,192.168.1.30,"Boston, USA",Linux,9,1,0
+691,2026-08-09 10:16:00,david,192.168.1.25,"Chicago, USA",Linux,10,1,0
+461,2026-08-08 20:01:00,emma,192.168.1.20,"Chicago, USA",Linux,20,1,0
+554,2026-08-14 01:34:00,bob,192.168.1.15,"New York, USA",Linux,1,1,0
+889,2026-08-05 21:10:00,alice,192.168.1.20,"Chicago, USA",Windows,21,0,0
+207,2026-08-09 00:53:00,emma,192.168.1.30,"Boston, USA",Linux,0,1,0
+393,2026-08-04 20:12:00,jack,192.168.1.15,"New York, USA",Linux,20,1,0
+795,2026-08-07 15:12:00,frank,192.168.1.20,"Chicago, USA",Linux,15,1,0
+398,2026-08-12 07:45:00,emma,192.168.1.15,"New York, USA",Linux,7,1,0
+767,2026-08-03 17:41:00,bob,192.168.1.30,"Boston, USA",Windows,17,1,0
+849,2026-08-14 06:43:00,henry,192.168.1.25,"Chicago, USA",Windows,6,1,0
+218,2026-08-14 16:53:00,frank,192.168.1.20,"Chicago, USA",Linux,16,1,0
+5,2026-08-10 21:06:00,isabella,192.168.1.15,"New York, USA",MacOS,21,1,0
+769,2026-08-14 08:24:00,henry,192.168.1.30,"Boston, USA",MacOS,8,1,0
+643,2026-08-10 05:56:00,david,192.168.1.20,"Chicago, USA",Linux,5,1,0
+930,2026-08-01 10:44:00,alice,192.168.1.30,"Boston, USA",Linux,10,1,0
+613,2026-08-07 22:00:00,emma,192.168.1.30,"Boston, USA",MacOS,22,1,0
+739,2026-08-03 00:31:00,bob,192.168.1.20,"Chicago, USA",Windows,0,1,0
+547,2026-08-03 00:08:00,david,192.168.1.10,"New York, USA",MacOS,0,1,0
+726,2026-08-09 22:38:00,charlie,192.168.1.20,"Chicago, USA",Linux,22,1,0
+684,2026-08-10 06:36:00,frank,192.168.1.20,"Chicago, USA",MacOS,6,1,0
+99,2026-08-12 23:10:00,david,192.168.1.25,"Chicago, USA",Linux,23,1,0
+805,2026-08-10 21:38:00,emma,192.168.1.20,"Chicago, USA",MacOS,21,1,0
+728,2026-08-14 05:55:00,grace,192.168.1.10,"New York, USA",Windows,5,1,0
+574,2026-08-08 21:05:00,grace,192.168.1.25,"Chicago, USA",Windows,21,1,0
+407,2026-08-12 16:23:00,henry,192.168.1.20,"Chicago, USA",MacOS,16,1,0
+503,2026-08-09 18:39:00,henry,192.168.1.10,"New York, USA",Linux,18,1,0
+48,2026-08-10 22:24:00,charlie,192.168.1.15,"New York, USA",MacOS,22,1,0
+33,2026-08-03 06:46:00,bob,192.168.1.25,"Chicago, USA",Windows,6,0,0
+780,2026-08-05 21:37:00,david,192.168.1.10,"New York, USA",Windows,21,1,0
+840,2026-08-06 14:14:00,emma,192.168.1.25,"Chicago, USA",MacOS,14,1,0
+201,2026-08-05 15:01:00,frank,192.168.1.15,"New York, USA",Linux,15,1,0
+135,2026-08-03 15:39:00,david,192.168.1.20,"Chicago, USA",Linux,15,1,0
+28,2026-08-12 17:23:00,emma,192.168.1.15,"New York, USA",Linux,17,1,0
+881,2026-08-04 08:50:00,henry,192.168.1.15,"New York, USA",MacOS,8,1,0
+231,2026-08-11 23:46:00,bob,192.168.1.10,"New York, USA",Windows,23,1,0
+490,2026-08-06 21:39:00,alice,192.168.1.10,"New York, USA",MacOS,21,1,0
+773,2026-08-08 09:49:00,emma,192.168.1.20,"Chicago, USA",MacOS,9,1,0
+379,2026-08-07 22:34:00,isabella,192.168.1.20,"Chicago, USA",Windows,22,1,0
+289,2026-08-12 15:38:00,alice,192.168.1.25,"Chicago, USA",Windows,15,1,0
+419,2026-08-13 03:37:00,henry,192.168.1.25,"Chicago, USA",Windows,3,1,0
+675,2026-08-05 18:43:00,henry,192.168.1.30,"Boston, USA",Windows,18,1,0
+392,2026-08-03 11:01:00,isabella,192.168.1.30,"Boston, USA",Linux,11,1,0
+593,2026-08-15 07:35:00,emma,192.168.1.30,"Boston, USA",Windows,7,1,0
+499,2026-08-06 19:36:00,henry,192.168.1.15,"New York, USA",MacOS,19,1,0
+139,2026-08-04 19:33:00,henry,192.168.1.25,"Chicago, USA",Windows,19,1,0
+63,2026-08-11 17:42:00,emma,192.168.1.20,"Chicago, USA",Windows,17,1,0
+472,2026-08-08 19:11:00,charlie,192.168.1.30,"Boston, USA",MacOS,19,1,0
+648,2026-08-01 15:31:00,bob,192.168.1.20,"Chicago, USA",Windows,15,1,0
+129,2026-08-04 19:13:00,jack,192.168.1.15,"New York, USA",Windows,19,1,0
+977,2026-08-07 10:55:00,isabella,185.220.101.1,Unknown,Linux,2,1,1
+521,2026-08-02 10:29:00,bob,192.168.1.10,"New York, USA",MacOS,10,1,0
+839,2026-08-12 23:27:00,bob,192.168.1.10,"New York, USA",Linux,23,1,0
+963,2026-08-03 10:38:00,charlie,91.108.4.20,Foreign Location,Windows,2,0,1
+65,2026-08-07 08:50:00,isabella,192.168.1.15,"New York, USA",MacOS,8,1,0
+813,2026-08-02 15:40:00,frank,192.168.1.10,"New York, USA",MacOS,15,1,0
+15,2026-08-05 01:14:00,david,192.168.1.25,"Chicago, USA",MacOS,1,1,0
+157,2026-08-13 11:42:00,alice,192.168.1.15,"New York, USA",MacOS,11,1,0
+41,2026-08-08 20:27:00,alice,192.168.1.10,"New York, USA",Linux,20,1,0
+493,2026-08-06 17:22:00,frank,192.168.1.20,"Chicago, USA",Windows,17,0,0
+380,2026-08-09 13:25:00,charlie,192.168.1.30,"Boston, USA",Windows,13,1,0
+188,2026-08-12 16:14:00,jack,192.168.1.25,"Chicago, USA",Windows,16,1,0
+764,2026-08-07 14:50:00,frank,192.168.1.30,"Boston, USA",MacOS,14,1,0
+217,2026-08-07 21:05:00,henry,192.168.1.30,"Boston, USA",Windows,21,1,0
+792,2026-08-10 08:53:00,isabella,192.168.1.30,"Boston, USA",Windows,8,1,0
+53,2026-08-07 19:47:00,henry,192.168.1.25,"Chicago, USA",Linux,19,1,0
+879,2026-08-12 19:18:00,frank,192.168.1.25,"Chicago, USA",MacOS,19,0,0
+338,2026-08-10 02:53:00,david,192.168.1.10,"New York, USA",MacOS,2,1,0
+749,2026-08-08 08:24:00,bob,192.168.1.25,"Chicago, USA",MacOS,8,1,0
+720,2026-08-02 16:31:00,frank,192.168.1.10,"New York, USA",Windows,16,1,0
+725,2026-08-09 10:52:00,jack,192.168.1.15,"New York, USA",Linux,10,1,0
+296,2026-08-10 10:41:00,jack,192.168.1.30,"Boston, USA",Windows,10,1,0
+702,2026-08-04 17:10:00,henry,192.168.1.10,"New York, USA",Linux,17,1,0
+252,2026-08-14 17:35:00,david,192.168.1.20,"Chicago, USA",Windows,17,1,0
+727,2026-08-05 09:03:00,charlie,192.168.1.10,"New York, USA",Linux,9,1,0
+462,2026-08-07 06:50:00,alice,192.168.1.20,"Chicago, USA",Linux,6,1,0
+456,2026-08-07 04:30:00,henry,192.168.1.15,"New York, USA",Windows,4,1,0
+997,2026-08-10 09:33:00,grace,185.220.101.1,Unknown,Linux,1,0,1
+816,2026-08-11 02:18:00,grace,192.168.1.25,"Chicago, USA",MacOS,2,1,0
+863,2026-08-14 00:16:00,alice,192.168.1.30,"Boston, USA",Windows,0,1,0
+270,2026-08-10 22:58:00,frank,192.168.1.10,"New York, USA",MacOS,22,1,0
+202,2026-08-02 07:50:00,grace,192.168.1.20,"Chicago, USA",Linux,7,1,0
+162,2026-08-14 11:07:00,bob,192.168.1.10,"New York, USA",Windows,11,1,0
+556,2026-08-04 15:41:00,henry,192.168.1.10,"New York, USA",Windows,15,1,0
+730,2026-08-08 20:51:00,charlie,192.168.1.10,"New York, USA",Windows,20,1,0
+402,2026-08-13 01:14:00,frank,192.168.1.30,"Boston, USA",Windows,1,1,0
+703,2026-08-08 01:10:00,david,192.168.1.25,"Chicago, USA",MacOS,1,1,0
+477,2026-08-14 11:50:00,david,192.168.1.10,"New York, USA",Windows,11,1,0
+822,2026-08-13 06:14:00,jack,192.168.1.20,"Chicago, USA",MacOS,6,1,0
+772,2026-08-12 03:31:00,alice,192.168.1.20,"Chicago, USA",MacOS,3,1,0
+106,2026-08-11 21:42:00,isabella,192.168.1.10,"New York, USA",Linux,21,1,0
+566,2026-08-01 22:41:00,isabella,192.168.1.25,"Chicago, USA",Linux,22,1,0
+390,2026-08-07 19:07:00,isabella,192.168.1.10,"New York, USA",MacOS,19,1,0
+2,2026-08-13 17:50:00,bob,192.168.1.10,"New York, USA",Linux,17,1,0
+938,2026-08-03 14:38:00,david,192.168.1.20,"Chicago, USA",Linux,14,1,0
+983,2026-08-14 12:27:00,emma,91.108.4.20,Foreign Location,MacOS,4,0,1
+562,2026-08-12 05:36:00,david,192.168.1.20,"Chicago, USA",Windows,5,1,0
+81,2026-08-07 09:42:00,david,192.168.1.15,"New York, USA",Linux,9,1,0
+206,2026-08-10 15:54:00,charlie,192.168.1.15,"New York, USA",Windows,15,1,0
+35,2026-08-05 02:10:00,isabella,192.168.1.20,"Chicago, USA",Linux,2,1,0
+776,2026-08-05 14:38:00,bob,192.168.1.25,"Chicago, USA",Windows,14,1,0
+509,2026-08-10 08:36:00,david,192.168.1.15,"New York, USA",Linux,8,1,0
+428,2026-08-04 16:42:00,grace,192.168.1.15,"New York, USA",Windows,16,1,0
+455,2026-08-07 13:00:00,henry,192.168.1.15,"New York, USA",Windows,13,1,0
+367,2026-08-03 00:58:00,alice,192.168.1.25,"Chicago, USA",MacOS,0,1,0
+92,2026-08-09 14:54:00,david,192.168.1.25,"Chicago, USA",Windows,14,1,0
+340,2026-08-12 02:01:00,emma,192.168.1.15,"New York, USA",Linux,2,1,0
+898,2026-08-08 00:39:00,david,192.168.1.25,"Chicago, USA",Windows,0,0,0
+565,2026-08-05 21:07:00,jack,192.168.1.30,"Boston, USA",Linux,21,1,0
+346,2026-08-06 20:07:00,jack,192.168.1.15,"New York, USA",MacOS,20,1,0
+777,2026-08-12 08:34:00,grace,192.168.1.30,"Boston, USA",MacOS,8,1,0
+242,2026-08-02 01:52:00,emma,192.168.1.20,"Chicago, USA",Windows,1,1,0
+14,2026-08-02 22:59:00,emma,192.168.1.30,"Boston, USA",Linux,22,1,0
+316,2026-08-07 01:37:00,emma,192.168.1.30,"Boston, USA",Windows,1,1,0
+601,2026-08-10 18:59:00,henry,192.168.1.25,"Chicago, USA",MacOS,18,1,0
+388,2026-08-04 03:48:00,alice,192.168.1.30,"Boston, USA",Windows,3,1,0
+274,2026-08-14 02:21:00,grace,192.168.1.30,"Boston, USA",Linux,2,1,0
+167,2026-08-03 14:11:00,jack,192.168.1.15,"New York, USA",Linux,14,1,0
+841,2026-08-03 14:30:00,alice,192.168.1.15,"New York, USA",Windows,14,1,0
+993,2026-08-15 07:59:00,david,91.108.4.20,Foreign Location,MacOS,23,0,1
+647,2026-08-05 06:21:00,isabella,192.168.1.25,"Chicago, USA",Windows,6,1,0
+819,2026-08-06 11:34:00,david,192.168.1.20,"Chicago, USA",MacOS,11,1,0
+485,2026-08-10 23:37:00,isabella,192.168.1.30,"Boston, USA",MacOS,23,1,0
+981,2026-08-09 08:33:00,jack,185.220.101.1,Unknown,MacOS,0,0,1
+505,2026-08-02 05:35:00,jack,192.168.1.10,"New York, USA",Windows,5,1,0
+832,2026-08-07 11:26:00,isabella,192.168.1.30,"Boston, USA",Linux,11,1,0
+244,2026-08-02 17:04:00,frank,192.168.1.25,"Chicago, USA",MacOS,17,1,0
+567,2026-08-02 21:46:00,emma,192.168.1.25,"Chicago, USA",Linux,21,1,0
+876,2026-08-13 22:08:00,alice,192.168.1.25,"Chicago, USA",Linux,22,1,0
+563,2026-08-07 23:10:00,frank,192.168.1.25,"Chicago, USA",Linux,23,1,0
+687,2026-08-08 11:30:00,henry,192.168.1.25,"Chicago, USA",Windows,11,1,0
+190,2026-08-04 02:18:00,henry,192.168.1.10,"New York, USA",Linux,2,1,0
+783,2026-08-06 20:07:00,alice,192.168.1.20,"Chicago, USA",MacOS,20,1,0
+700,2026-08-12 14:57:00,grace,192.168.1.10,"New York, USA",MacOS,14,1,0
+476,2026-08-01 19:53:00,emma,192.168.1.25,"Chicago, USA",MacOS,19,1,0
+682,2026-08-10 07:22:00,charlie,192.168.1.10,"New York, USA",Linux,7,1,0
+511,2026-08-07 06:50:00,emma,192.168.1.20,"Chicago, USA",Linux,6,1,0
+59,2026-08-10 12:30:00,david,192.168.1.10,"New York, USA",Linux,12,1,0
+475,2026-08-14 03:58:00,henry,192.168.1.10,"New York, USA",Linux,3,1,0
+561,2026-08-04 10:20:00,jack,192.168.1.20,"Chicago, USA",MacOS,10,1,0
+857,2026-08-12 20:06:00,charlie,192.168.1.25,"Chicago, USA",MacOS,20,1,0
+748,2026-08-05 05:17:00,david,192.168.1.20,"Chicago, USA",Windows,5,1,0
+253,2026-08-04 05:13:00,alice,192.168.1.25,"Chicago, USA",Linux,5,1,0
+22,2026-08-12 22:16:00,charlie,192.168.1.25,"Chicago, USA",Windows,22,1,0
+314,2026-08-14 22:31:00,frank,192.168.1.10,"New York, USA",Linux,22,1,0
+460,2026-08-01 11:43:00,david,192.168.1.20,"Chicago, USA",MacOS,11,1,0
+161,2026-08-12 04:54:00,emma,192.168.1.10,"New York, USA",Windows,4,1,0
+277,2026-08-09 01:35:00,emma,192.168.1.20,"Chicago, USA",Windows,1,1,0
+956,2026-08-08 11:56:00,grace,185.220.101.1,Unknown,Windows,3,0,1
+192,2026-08-03 10:54:00,grace,192.168.1.15,"New York, USA",Windows,10,1,0
+386,2026-08-11 22:24:00,henry,192.168.1.30,"Boston, USA",MacOS,22,1,0
+806,2026-08-11 21:16:00,emma,192.168.1.10,"New York, USA",MacOS,21,1,0
+414,2026-08-12 19:23:00,grace,192.168.1.25,"Chicago, USA",Linux,19,1,0
+492,2026-08-06 15:53:00,emma,192.168.1.30,"Boston, USA",MacOS,15,1,0
+344,2026-08-11 17:38:00,grace,192.168.1.10,"New York, USA",Windows,17,1,0
+770,2026-08-10 12:04:00,emma,192.168.1.15,"New York, USA",Linux,12,1,0
+309,2026-08-05 14:48:00,jack,192.168.1.20,"Chicago, USA",Linux,14,1,0
+662,2026-08-03 02:05:00,jack,192.168.1.25,"Chicago, USA",MacOS,2,1,0
+131,2026-08-05 03:38:00,frank,192.168.1.30,"Boston, USA",Linux,3,1,0
+664,2026-08-03 16:11:00,emma,192.168.1.30,"Boston, USA",Linux,16,1,0
+872,2026-08-10 06:34:00,bob,192.168.1.15,"New York, USA",MacOS,6,1,0
+100,2026-08-07 18:59:00,bob,192.168.1.30,"Boston, USA",Linux,18,1,0
+373,2026-08-07 16:12:00,frank,192.168.1.15,"New York, USA",Windows,16,1,0
+88,2026-08-11 05:19:00,jack,192.168.1.20,"Chicago, USA",Linux,5,1,0
+459,2026-08-05 12:54:00,bob,192.168.1.15,"New York, USA",MacOS,12,1,0
+331,2026-08-11 20:08:00,henry,192.168.1.20,"Chicago, USA",MacOS,20,1,0
+215,2026-08-06 19:31:00,grace,192.168.1.25,"Chicago, USA",Linux,19,1,0
+467,2026-08-09 20:02:00,jack,192.168.1.25,"Chicago, USA",Linux,20,1,0
+122,2026-08-01 22:43:00,isabella,192.168.1.25,"Chicago, USA",Linux,22,1,0
+615,2026-08-04 05:17:00,emma,192.168.1.15,"New York, USA",Windows,5,1,0
+21,2026-08-10 10:07:00,jack,192.168.1.20,"Chicago, USA",Windows,10,0,0
+701,2026-08-09 09:18:00,charlie,192.168.1.15,"New York, USA",Windows,9,1,0
+72,2026-08-03 10:24:00,alice,192.168.1.25,"Chicago, USA",MacOS,10,1,0
+107,2026-08-11 17:17:00,bob,192.168.1.15,"New York, USA",MacOS,17,1,0
+271,2026-08-03 16:34:00,frank,192.168.1.30,"Boston, USA",Linux,16,1,0
+861,2026-08-11 12:43:00,jack,192.168.1.10,"New York, USA",MacOS,12,1,0
+436,2026-08-14 00:47:00,emma,192.168.1.20,"Chicago, USA",Windows,0,1,0
+103,2026-08-15 05:50:00,henry,192.168.1.10,"New York, USA",MacOS,5,1,0
